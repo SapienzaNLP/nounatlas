@@ -1,0 +1,4 @@
+# <class 'srl.data.dependency_srl_data_module.DependencySrlDataModule'>
+data:
+  #   (type: Union[str, null], default: null)
+  test_path: data/preprocessed/semcor_gemini_2_nn/dataset_manual.json
