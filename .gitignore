@@ -161,18 +161,12 @@ cython_debug/
 
 lightning_logs/
 
-# Personal files
-notes.txt
-babelnet_conf.yml
-debug_stats*
-
 # checkpoints_nominal_classification from models
 checkpoints_nominal_classification/*
 
 # Ignore semcor generated dataset
 datasets/dataset_nominal_srl/semcor/semcor_verbal_sentences.json
 datasets/dataset_nominal_srl/semcor/semcor_nominal_sentences.json
-code_files_nominal_srl/data_preprocessing/chatgpt_utils_tests.py
 
 # Ignore vscode files
 .vscode
