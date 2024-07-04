@@ -1,0 +1,9 @@
+{
+    "keep_verbal_sample": false,
+    "keep_verbal_predicates": false,
+    "keep_nominal_sample": true,
+    "keep_nominal_predicates": true,
+    "number_of_samples": 27900,
+    "number_of_verbal_predicates": 0,
+    "number_of_nominal_predicates": 27900
+}
