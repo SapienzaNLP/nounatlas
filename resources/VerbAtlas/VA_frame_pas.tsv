@@ -1,0 +1,427 @@
+VerbAtlas 1.1.0 - SapienzaNLP - LICENSE: CC BY-SA-NC 4.0 - http://verbatlas.org
+va:0001f	Agent	Theme	Beneficiary	Attribute
+va:0002f	Agent	Theme
+va:0003f	Agent	Theme	Destination	Source	Instrument	Attribute	Beneficiary
+va:0004f	Agent	Theme	Source	Instrument
+va:0005f	Cause	Agent	Topic	Source	Attribute
+va:0008f	Agent	Patient	Goal
+va:0009f	Agent	Topic	Recipient	Attribute	Result	Instrument	Location
+va:0010f	Agent	Theme	Source	Asset	Beneficiary
+va:0011f	Agent	Beneficiary	Theme	Purpose	Idiom
+va:0012f	Agent	Theme	Beneficiary	Attribute	Purpose	Cause	Source	Destination	Location
+va:0014f	Agent	Theme	Beneficiary	Instrument	Attribute
+va:0015f	Agent	Goal
+va:0016f	Agent	Patient	Result	Instrument	Source
+va:0017f	Agent	Attribute	Recipient	Cause
+va:0018f	Agent	Patient	Instrument	Result	Attribute
+va:0021f	Agent	Theme	Value	Cause
+va:0022f	Agent	Beneficiary	Instrument	Goal	Attribute
+va:0024f	Agent	Theme	Recipient	Instrument	Attribute
+va:0025f	Agent	Theme	Co-Agent	Attribute	Source	Destination
+va:0029f	Agent	Theme	Instrument	Attribute	Topic	Location	Extent	Source	Goal
+va:0030f	Theme	Location	Agent	Extent	Source	Destination	Attribute	Patient	Result
+va:0032f	Agent	Theme	Beneficiary	Goal	Source	Cause	Co-Theme
+va:0033f	Agent	Theme	Location	Attribute	Instrument	Goal	Beneficiary
+va:0034f	Cause	Theme	Source	Destination
+va:0035f	Agent	Theme	Attribute	Instrument
+va:0038f	Agent	Patient	Attribute
+va:0039f	Location	Value	Beneficiary
+va:0040f	Agent	Theme	Beneficiary	Attribute
+va:0044f	Stimulus	Experiencer	Instrument
+va:0045f	Agent	Theme	Attribute
+va:0046f	Agent	Theme	Source	Instrument	Attribute	Goal
+va:0048f	Agent	Patient	Source
+va:0049f	Agent	Theme	Goal
+va:0050f	Agent	Patient	Goal	Cause	Attribute	Source	Instrument
+va:0051f	Agent	Patient
+va:0052f	Agent	Theme	Goal	Purpose
+va:0053f	Agent	Patient	Location	Extent	Destination
+va:0054f	Theme	Patient	Source	Destination	Cause	Extent
+va:0056f	Agent	Theme	Attribute	Location
+va:0057f	Agent	Theme	Beneficiary	Attribute
+va:0058f	Agent	Patient	Instrument	Result	Attribute
+va:0059f	Source	Theme	Destination	Attribute	Extent
+va:0060f	Agent	Theme	Destination	Source	Attribute	Beneficiary
+va:0061f	Theme	Source	Destination	Agent
+va:0062f	Agent	Instrument	Patient	Location	Attribute
+va:0064f	Agent	Theme	Value	Co-Theme	Cause	Goal
+va:0065f	Agent	Theme	Result	Attribute
+va:0066f	Agent	Patient	Topic	Recipient
+va:0067f	Agent	Patient	Location	Beneficiary	Cause	Goal
+va:0068f	Agent	Location	Extent	Source
+va:0069f	Agent	Theme	Recipient	Topic
+va:0071f	Agent	Experiencer	Instrument	Goal	Source
+va:0072f	Agent	Patient	Attribute
+va:0074f	Agent	Theme	Attribute	Goal
+va:0076f	Agent	Theme	Attribute	Recipient
+va:0077f	Agent	Theme	Source
+va:0078f	Agent	Theme	Source
+va:0079f	Agent	Theme	Source	Beneficiary	Attribute	Location
+va:0080f	Cause	Topic	Recipient
+va:0081f	Agent	Patient	Theme	Co-Agent	Beneficiary	Asset
+va:0082f	Agent	Patient	Goal	Instrument	Attribute
+va:0083f	Agent	Destination	Theme
+va:0086f	Agent	Patient	Result
+va:0089f	Agent	Patient	Instrument	Location
+va:0091f	Agent	Patient	Instrument	Goal	Source	Purpose	Product
+va:0092f	Agent	Instrument	Patient	Attribute	Result
+va:0093f	Experiencer	Stimulus	Attribute
+va:0094f	Experiencer	Stimulus	Source
+va:0096f	Agent	Theme	Attribute
+va:0097f	Agent	Theme	Source	Asset	Goal	Extent
+va:0099f	Agent	Theme	Goal	Source	Attribute	Cause
+va:0101f	Agent	Theme	Attribute	Beneficiary	Instrument	Location
+va:0103f	Agent	Theme	Goal	Instrument	Co-Agent	Attribute
+va:0104f	Theme	Attribute	Cause	Goal	Value
+va:0105f	Agent	Source
+va:0111f	Agent	Theme	Co-Theme	Experiencer	Location	Attribute
+va:0112f	Theme	Co-Theme	Agent	Attribute
+va:0113f	Agent	Patient
+va:0114f	Agent	Theme	Destination	Co-Agent	Attribute	Instrument	Source
+va:0119f	Cause	Theme	Source	Destination	Attribute	Time	Idiom
+va:0121f	Agent	Attribute	Theme
+va:0122f	Agent	Theme	Source	Recipient	Instrument
+va:0124f	Agent	Theme	Attribute	Cause
+va:0125f	Agent	Theme	Instrument	Beneficiary	Attribute
+va:0126f	Cause	Patient	Goal	Instrument
+va:0128f	Agent	Patient	Theme
+va:0129f	Agent	Theme	Asset	Recipient
+va:0130f	Agent	Result	Theme	Topic	Recipient	Attribute
+va:0131f	Agent	Theme	Attribute
+va:0133f	Agent	Patient	Goal
+va:0134f	Agent	Patient	Instrument	Result
+va:0135f	Agent	Patient	Source	Goal	Instrument	Beneficiary
+va:0137f	Agent	Source	Destination	Extent	Instrument	Location	Cause	Goal
+va:0138f	Patient	Theme	Source	Agent
+va:0139f	Agent	Patient	Instrument	Source
+va:0140f	Agent	Theme	Topic	Recipient
+va:0141f	Agent	Patient	Instrument	Extent	Source	Destination
+va:0142f	Agent	Patient	Instrument
+va:0143f	Agent	Theme	Co-Agent	Topic
+va:0145f	Experiencer	Stimulus	Goal
+va:0147f	Cause	Agent	Patient	Goal	Instrument
+va:0148f	Agent	Patient	Result	Instrument	Source	Extent
+va:0149f	Agent	Theme	Co-Agent	Co-Theme
+va:0150f	Experiencer	Stimulus	Instrument
+va:0152f	Agent	Theme	Source	Destination
+va:0153f	Agent	Theme	Source	Destination	Extent	Attribute	Instrument	Goal
+va:0154f	Agent	Theme	Co-Theme	Co-Agent	Beneficiary	Source
+va:0155f	Agent	Patient	Instrument	Theme	Result
+va:0156f	Agent	Patient	Theme	Goal
+va:0157f	Agent	Patient	Instrument	Result	Material	Attribute	Extent
+va:0159f	Agent	Theme	Attribute
+va:0160f	Cause	Source	Theme	Destination
+va:0162f	Agent	Theme	Recipient	Attribute	Location	Source
+va:0165f	Experiencer	Stimulus
+va:0166f	Agent	Theme	Source	Instrument	Location
+va:0167f	Agent	Theme	Destination	Extent	Source	Instrument
+va:0170f	Agent	Value	Location
+va:0173f	Agent	Theme	Location
+va:0174f	Agent	Theme	Destination
+va:0175f	Theme	Location	Cause	Destination
+va:0176f	Agent	Theme	Attribute	Beneficiary	Goal
+va:0177f	Agent	Recipient	Topic	Instrument
+va:0181f	Agent	Theme	Beneficiary	Instrument	Attribute
+va:0182f	Agent	Patient	Source	Beneficiary
+va:0183f	Agent	Patient	Instrument	Attribute	Location	Goal	Co-Agent
+va:0185f	Agent	Theme	Asset	Source	Beneficiary
+va:0186f	Agent	Theme	Source	Value	Attribute
+va:0188f	Agent	Theme	Co-Theme	Result	Material	Beneficiary	Attribute
+va:0189f	Agent	Recipient	Theme	Goal	Attribute	Source	Co-Theme
+va:0196f	Agent	Theme	Co-Theme
+va:0197f	Agent	Theme	Location	Goal
+va:0198f	Agent	Beneficiary	Theme	Instrument	Result
+va:0200f	Agent	Co-Agent	Cause	Theme
+va:0201f	Stimulus	Experiencer	Instrument	Theme	Agent
+va:0202f	Agent	Theme	Destination
+va:0204f	Agent	Patient	Instrument	Attribute	Topic
+va:0205f	Agent	Co-Agent
+va:0206f	Agent	Patient	Co-Patient	Instrument	Attribute
+va:0207f	Agent	Patient	Instrument	Location
+va:0212f	Agent	Patient	Goal	Source	Instrument
+va:0213f	Theme	Co-Theme
+va:0216f	Agent	Theme	Attribute	Destination	Instrument
+va:0217f	Cause	Agent	Co-Agent	Instrument	Result	Theme
+va:0219f	Agent	Theme	Extent	Source	Destination	Location
+va:0222f	Agent	Patient	Co-Patient	Extent
+va:0225f	Agent	Topic	Cause
+va:0227f	Agent	Topic	Recipient	Goal	Attribute
+va:0228f	Agent	Experiencer	Instrument	Attribute	Destination
+va:0229f	Agent	Theme	Recipient	Asset	Beneficiary	Attribute	Co-Agent
+va:0231f	Agent	Recipient	Theme	Instrument	Goal
+va:0233f	Agent	Asset	Goal
+va:0234f	Agent	Theme	Destination
+va:0235f	Agent	Theme	Attribute
+va:0236f	Agent	Theme	Attribute	Source
+va:0239f	Agent	Patient	Source	Extent	Destination	Attribute	Instrument	Co-Patient
+va:0240f	Agent	Theme	Attribute	Source	Patient	Recipient	Location
+va:0241f	Agent	Patient	Attribute	Extent	Source	Goal	Instrument	Location
+va:0242f	Agent	Instrument	Destination	Theme	Attribute
+va:0243f	Agent	Patient
+va:0244f	Agent	Theme	Instrument	Cause
+va:0245f	Theme	Location	Attribute	Agent
+va:0247f	Agent	Theme	Recipient	Attribute	Source	Instrument
+va:0248f	Agent	Patient	Result	Source	Co-Agent	Beneficiary
+va:0249f	Agent	Destination	Theme	Instrument
+va:0251f	Agent	Beneficiary	Theme	Instrument	Patient
+va:0253f	Agent	Patient	Recipient	Co-Patient
+va:0255f	Agent	Theme	Attribute	Source	Instrument	Beneficiary	Location
+va:0259f	Agent	Patient	Source	Instrument	Destination
+va:0260f	Agent	Theme	Source	Instrument
+va:0261f	Agent
+va:0264f	Agent	Theme	Source	Destination	Attribute
+va:0266f	Agent	Theme	Co-Theme
+va:0267f	Agent	Recipient	Asset	Cause
+va:0272f	Agent	Theme	Attribute	Goal
+va:0274f	Agent	Patient	Result	Beneficiary	Material
+va:0276f	Agent	Theme	Instrument
+va:0277f	Beneficiary	Theme	Purpose
+va:0279f	Theme	Asset	Beneficiary	Source
+va:0281f	Agent	Theme	Instrument
+va:0282f	Theme	Destination	Agent	Source
+va:0285f	Agent	Theme	Instrument	Goal	Attribute
+va:0287f	Theme	Co-Theme	Cause
+va:0288f	Agent	Theme	Location	Attribute
+va:0289f	Agent	Patient	Instrument	Recipient	Attribute
+va:0290f	Agent	Theme	Source	Asset	Destination	Instrument
+va:0292f	Theme	Goal	Location	Beneficiary	Cause
+va:0294f	Agent	Theme
+va:0297f	Agent	Theme	Destination	Instrument
+va:0298f	Agent	Theme	Attribute	Source
+va:0299f	Agent	Patient	Source
+va:0301f	Agent	Theme	Source	Beneficiary	Value
+va:0304f	Agent	Co-Agent	Theme
+va:0306f	Agent	Asset	Recipient	Theme	Extent	Beneficiary	Source
+va:0307f	Agent	Patient	Beneficiary
+va:0310f	Agent	Topic	Beneficiary	Result
+va:0311f	Agent	Theme	Attribute	Instrument
+va:0312f	Agent	Theme	Recipient	Attribute	Instrument
+va:0313f	Agent	Co-Agent	Theme
+va:0314f	Agent	Recipient	Topic	Attribute	Instrument	Location
+va:0316f	Agent	Topic	Recipient	Attribute	Source
+va:0317f	Experiencer	Theme	Topic	Attribute	Source
+va:0318f	Agent	Recipient	Topic
+va:0320f	Agent	Theme	Goal	Attribute
+va:0321f	Agent	Theme	Result	Instrument	Source
+va:0322f	Agent	Theme	Co-Theme	Result
+va:0324f	Agent	Theme	Topic
+va:0325f	Experiencer	Stimulus	Result
+va:0326f	Agent	Patient	Theme	Instrument
+va:0327f	Agent	Result	Topic	Instrument	Recipient	Destination
+va:0329f	Agent	Theme	Attribute	Instrument	Co-Agent
+va:0330f	Agent	Recipient	Theme	Attribute	Goal
+va:0331f	Agent	Theme	Co-Theme	Instrument
+va:0332f	Agent	Patient
+va:0333f	Agent	Theme	Goal	Attribute	Recipient	Cause
+va:0334f	Agent	Theme	Attribute	Recipient
+va:0336f	Agent	Co-Agent	Topic	Attribute
+va:0337f	Agent	Product	Beneficiary	Material	Co-Agent	Purpose	Extent	Goal	Instrument
+va:0338f	Agent	Theme	Topic	Co-Agent	Beneficiary
+va:0339f	Agent	Topic	Recipient	Attribute	Result	Destination
+va:0340f	Theme	Topic	Recipient
+va:0341f	Agent	Theme	Co-Theme	Attribute
+va:0343f	Agent	Topic	Theme	Attribute
+va:0344f	Experiencer	Stimulus	Cause	Attribute	Instrument
+va:0345f	Agent	Recipient	Topic	Instrument
+va:0346f	Agent	Recipient	Topic	Instrument	Location
+va:0347f	Agent	Theme	Beneficiary
+va:0348f	Agent	Topic	Recipient	Attribute
+va:0349f	Agent	Patient
+va:0354f	Agent	Destination	Result	Instrument	Beneficiary
+va:0355f	Agent	Theme	Beneficiary	Extent	Source	Location	Destination
+va:0356f	Agent	Theme	Goal	Instrument
+va:0357f	Agent	Theme	Recipient
+va:0360f	Agent	Co-Agent	Topic
+va:0361f	Agent	Theme	Location	Instrument	Attribute
+va:0362f	Agent	Co-Agent
+va:0364f	Agent	Value	Theme	Patient	Instrument	Extent	Source	Destination
+va:0366f	Agent	Patient	Co-Patient	Result	Extent
+va:0368f	Cause	Theme	Co-Theme
+va:0369f	Agent	Theme	Patient	Recipient
+va:0372f	Agent	Patient	Instrument	Extent	Source	Goal
+va:0373f	Agent	Theme	Goal	Cause	Instrument	Attribute
+va:0379f	Agent	Theme
+va:0380f	Agent	Theme	Goal	Attribute	Source	Destination
+va:0382f	Agent	Result	Material	Beneficiary	Attribute	Co-Agent	Product
+va:0384f	Agent	Theme	Instrument	Goal	Beneficiary
+va:0385f	Agent	Theme	Extent	Source	Destination
+va:0387f	Agent	Theme	Destination	Source	Attribute	Extent	Instrument
+va:0389f	Agent	Theme	Beneficiary	Instrument	Co-Agent	Attribute
+va:0390f	Agent	Patient
+va:0391f	Agent	Theme	Source	Destination	Extent	Attribute
+va:0394f	Theme	Location	Source	Destination	Extent	Agent	Purpose	Instrument	Co-Theme
+va:0396f	Agent	Theme	Result	Asset	Source	Beneficiary	Location	Cause	Instrument
+va:0397f	Agent	Recipient	Patient	Cause
+va:0398f	Agent	Patient	Theme	Asset	Cause
+va:0400f	Agent	Destination	Theme	Result
+va:0401f	Agent	Beneficiary
+va:0402f	Agent	Theme	Beneficiary	Attribute	Instrument
+va:0406f	Agent	Topic	Source	Destination
+va:0407f	Agent	Asset	Theme	Recipient
+va:0408f	Agent	Theme
+va:0410f	Agent	Co-Agent	Goal	Cause
+va:0413f	Agent	Theme	Attribute	Goal	Instrument	Source
+va:0414f	Stimulus	Experiencer	Extent	Instrument
+va:0415f	Agent	Theme	Instrument
+va:0417f	Agent	Theme	Instrument
+va:0418f	Agent	Theme	Co-Theme
+va:0419f	Agent	Patient	Destination	Instrument	Attribute
+va:0420f	Agent	Theme	Co-Theme
+va:0421f	Agent	Destination	Theme	Instrument
+va:0422f	Agent	Theme	Destination	Instrument
+va:0423f	Agent	Theme	Co-Agent
+va:0424f	Agent	Theme	Recipient	Attribute
+va:0425f	Agent	Theme	Cause	Destination	Instrument	Attribute
+va:0426f	Agent	Theme	Attribute
+va:0427f	Agent	Theme	Co-Agent	Attribute
+va:0429f	Agent	Theme	Instrument	Result	Attribute	Location	Extent	Source	Time	Beneficiary
+va:0430f	Agent	Attribute	Patient	Extent	Source	Destination	Instrument	Location	Beneficiary
+va:0431f	Agent	Experiencer	Instrument	Goal
+va:0432f	Agent	Patient	Instrument	Goal	Extent	Source
+va:0433f	Agent	Patient
+va:0434f	Agent	Patient	Co-Patient	Location	Result	Instrument
+va:0435f	Agent	Stimulus	Experiencer	Instrument	Result	Attribute	Source	Goal
+va:0436f	Agent	Patient	Instrument
+va:0437f	Agent	Theme	Destination	Instrument
+va:0438f	Agent	Patient	Stimulus	Attribute
+va:0441f	Agent	Patient	Instrument
+va:0442f	Agent	Patient	Result	Co-Patient
+va:0443f	Agent	Patient	Result
+va:0444f	Agent	Patient
+va:0445f	Agent	Patient	Location	Extent	Source	Destination	Instrument	Stimulus
+va:0446f	Agent	Patient	Instrument	Extent	Source	Destination
+va:0448f	Agent	Patient
+va:0449f	Agent	Patient	Extent
+va:0450f	Agent	Theme	Recipient
+va:0451f	Agent	Patient	Beneficiary
+va:0452f	Agent	Theme	Time
+va:0453f	Agent	Patient	Material	Beneficiary	Result
+va:0454f	Agent	Patient	Source	Attribute	Instrument
+va:0457f	Agent	Source	Theme	Destination	Instrument	Extent
+va:0458f	Agent	Patient	Source	Instrument	Beneficiary	Result	Product
+va:0459f	Agent	Patient	Instrument
+va:0460f	Agent	Patient
+va:0461f	Agent	Patient	Instrument
+va:0462f	Agent	Patient	Instrument	Source	Beneficiary
+va:0463f	Agent	Patient	Instrument
+va:0469f	Agent	Patient	Instrument	Product	Extent	Source	Goal
+va:0470f	Agent	Patient	Source	Destination
+va:0472f	Agent	Theme	Location
+va:0473f	Agent	Patient	Location	Attribute	Instrument	Beneficiary
+va:0474f	Agent	Patient	Instrument
+va:0475f	Agent	Patient	Destination
+va:0477f	Agent	Patient
+va:0478f	Agent	Theme	Beneficiary	Destination
+va:0479f	Agent	Patient	Instrument	Goal
+va:0480f	Agent	Patient	Destination	Instrument	Extent	Source	Goal	Location	Co-Patient
+va:0481f	Agent	Patient
+va:0482f	Agent	Patient	Location	Instrument
+va:0483f	Agent	Product	Material	Result	Beneficiary	Attribute
+va:0486f	Theme	Co-Theme	Attribute	Extent
+va:0487f	Agent	Patient
+va:0490f	Agent	Patient	Instrument
+va:0491f	Agent	Patient	Source	Instrument	Goal
+va:0492f	Agent	Patient
+va:0494f	Agent	Patient	Instrument	Goal	Result
+va:0496f	Agent	Recipient	Theme	Instrument	Attribute
+va:0497f	Agent	Patient	Attribute	Source	Destination
+va:0500f	Agent	Theme	Extent	Source	Destination
+va:0501f	Agent	Theme	Attribute	Location
+va:0502f	Agent	Theme	Result	Source
+va:0503f	Agent	Theme	Result	Source
+va:0504f	Agent	Extent	Source	Destination	Instrument	Location	Goal
+va:0505f	Agent	Patient	Location
+va:0506f	Agent	Destination
+va:0507f	Agent	Theme	Result
+va:0508f	Agent	Experiencer	Stimulus	Cause
+va:0509f	Agent	Theme	Location	Co-Theme
+va:0511f	Theme	Attribute	Experiencer
+va:0512f	Theme	Value	Beneficiary
+va:0514f	Agent	Patient	Instrument	Time
+va:0520f	Agent	Theme	Co-Theme
+va:0521f	Experiencer	Stimulus	Attribute	Beneficiary
+va:0522f	Agent	Patient	Goal
+va:0523f	Theme	Location	Agent	Destination	Co-Theme
+va:0524f	Agent	Location	Theme
+va:0525f	Experiencer	Stimulus
+va:0526f	Theme	Attribute	Co-Theme
+va:0527f	Agent	Theme	Co-Theme	Attribute
+va:0532f	Agent	Patient	Theme
+va:0533f	Cause	Agent	Theme	Source	Destination	Extent	Location	Co-Agent
+va:0534f	Agent	Patient	Co-Patient	Result	Instrument	Beneficiary	Attribute
+va:0535f	Agent	Theme	Destination
+va:0537f	Agent	Patient	Instrument	Result
+va:0538f	Experiencer	Stimulus
+va:0539f	Agent	Patient
+va:0541f	Agent	Destination	Theme
+va:0545f	Agent	Theme	Beneficiary	Time	Goal	Attribute
+va:0546f	Agent	Patient	Topic
+va:0547f	Agent	Theme	Attribute	Source
+va:0548f	Agent	Theme	Source	Co-Agent
+va:0550f	Experiencer	Stimulus	Destination
+va:0552f	Theme	Cause	Attribute	Instrument	Material	Product
+va:0553f	Agent	Patient	Theme
+va:0554f	Agent	Patient
+va:0556f	Agent	Theme	Recipient
+va:0558f	Agent	Theme
+va:0559f	Theme	Source	Destination	Agent	Extent	Location	Co-Theme
+va:0560f	Agent	Source
+va:0561f	Patient	Cause	Result
+va:0562f	Agent	Patient	Destination
+va:0563f	Agent	Patient	Co-Patient	Material	Product
+va:0564f	Agent	Patient	Result	Extent	Material	Goal	Instrument
+va:0566f	Agent	Co-Agent	Theme	Location
+va:0567f	Agent	Patient	Instrument	Extent	Destination
+va:0568f	Experiencer	Stimulus	Destination
+va:0570f	Agent	Theme	Goal
+va:0571f	Agent	Theme
+va:0572f	Theme	Agent	Destination
+va:0573f	Stimulus	Experiencer	Instrument	Result
+va:0574f	Agent	Patient	Cause	Instrument
+va:0575f	Agent	Experiencer	Attribute
+va:0576f	Experiencer	Stimulus	Attribute
+va:0577f	Experiencer	Stimulus
+va:0578f	Agent	Theme	Destination	Cause	Extent
+va:0579f	Agent	Patient	Instrument	Material	Product
+va:0580f	Agent	Patient	Co-Patient	Instrument	Result
+va:0581f	Agent	Theme	Source	Destination	Instrument	Attribute
+va:0582f	Agent	Stimulus	Experiencer	Instrument	Extent	Theme	Attribute	Result
+va:0583f	Agent	Theme	Beneficiary	Co-Agent
+va:0584f	Agent	Patient	Material	Beneficiary
+va:0586f	Agent	Product	Patient	Beneficiary	Attribute
+va:0587f	Agent	Theme	Destination
+va:0592f	Experiencer	Stimulus	Attribute
+va:0593f	Agent	Patient	Destination	Extent	Source	Attribute
+va:0594f	Theme	Destination	Agent
+va:0596f	Agent	Patient	Destination
+va:0597f	Agent	Attribute	Theme	Goal	Co-Agent	Instrument
+va:0598f	Agent	Theme	Source	Instrument
+va:0600f	Agent	Theme	Source
+va:0602f	Agent	Theme	Attribute	Cause
+va:0604f	Agent	Stimulus	Experiencer	Instrument
+va:0605f	Agent	Theme	Extent	Source	Destination	Location
+va:0607f	Theme	Source	Goal
+va:0608f	Agent	Theme	Co-Theme	Attribute
+va:0609f	Agent	Co-Agent
+va:0611f	Agent	Theme	Attribute
+va:0612f	Agent	Recipient	Theme	Asset	Extent
+va:0616f	Agent	Patient	Co-Patient	Result
+va:0617f	Agent	Asset	Theme	Co-Agent
+va:0618f	Agent	Patient	Extent	Source	Destination
+va:0619f	Agent	Patient	Result	Instrument
+va:0620f	Agent	Attribute	Theme
+va:0621f	Agent	Theme	Extent	Location	Goal
+va:0622f	Agent	Patient	Instrument	Goal	Attribute
+va:0623f	Agent	Theme	Location
+va:0624f	Agent	Theme	Source
+va:0625f	Agent	Patient	Attribute
+va:0626f	Agent	Patient	Result	Value
+va:0627f	Agent	Theme	Co-Theme	Attribute
+va:0628f	Theme	Co-Theme	Recipient
+va:0629f	Theme	Value	Goal
+va:0630f	Agent	Theme	Attribute	Goal
+va:0631f	Agent	Theme	Attribute	Instrument
+va:0632f	Topic
+va:0633f	Theme	Source
+va:0634f	Agent	Theme	Patient
+va:0635f	Agent	Theme
