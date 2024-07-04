@@ -1,0 +1,433 @@
+VerbAtlas 1.1.0 - SapienzaNLP - LICENSE: CC BY-SA-NC 4.0 - http://verbatlas.org
+va:0001f	TOLERATE	An agent TOLERATES a theme in favour of a beneficiary (+attribute)	bn:00082138v	Put up with something or somebody unpleasant	Tolerate, accept, endure.
+va:0002f	OBEY	An agent OBEYS to a theme	bn:00091112v	Be obedient to	Obey, go by, comply.
+va:0003f	CARRY_TRANSPORT	An agent CARRIES-TRANSPORTS a theme to a destination from a source using an instrument in favour of a beneficiary (+attribute)	bn:00084554v	Move while supporting, either in a vehicle or in one's hands or on one's body	Carry, transport.
+va:0004f	ABSORB	An agent ABSORBS a theme from a source using an instrument	bn:00082169v	Become imbued	Absorb, take in, imbibe.
+va:0005f	LEARN	A cause makes an agent LEARN a topic from a source (+attribute)	bn:00082281v	Gain knowledge or skills	Learn, assimilate, take up.
+va:0008f	CO-OPT	An agent CO OPTS a patient to achieve a goal	bn:00085214v	Choose or elect as a fellow member or colleague	Co-opt, proselytize, assimilate.
+va:0009f	SPEAK	An agent SPEAKS about a topic in a location to a recipient using an instrument achieving a result (+attribute)	bn:00094090v	Use language	Speak, address, talk.
+va:0010f	TAKE	An agent TAKES a theme from a source using an asset in favour of a beneficiary	bn:00088762v	Get into one's hands, take physically	Take, pick up, acquire.
+va:0011f	AUTHORIZE_ADMIT	An agent AUTHORIZES-ADMITS a beneficiary to a theme for a purpose (+idiom)	bn:00082938v	Grant authorization or clearance for	Admit, authorize, legitimate.
+va:0012f	RETAIN_KEEP_SAVE-MONEY	A cause makes an agent RETAINS-KEEPS-SAVES from a source to a destination a theme in favour of a beneficiary for a purpose in a location (+attribute)	bn:00092928v	Hold back within	Keep, save (money).
+va:0014f	PERFORM	An agent PERFORMS a theme in favour of a beneficiary using an instrument (+attribute)	bn:00091551v	Give a performance (of something)	Perform, play, act.
+va:0015f	ACHIEVE	An agent ACHIEVES a goal	bn:00082226v	To gain with effort	Achieve, gain with effort.
+va:0016f	CHANGE_SWITCH	An agent CHANGES-SWITCHES a patient in a result from a source-state using an instrument	bn:00082553v	Cause to change; make different; cause a transformation	Change (in general).
+va:0017f	BEHAVE	A cause makes an agent BEHAVE in a manner attribute towards a recipient	bn:00082286v	Behave in a certain manner; show a certain behavior; conduct or comport oneself	Behave, act, play.
+va:0018f	INCITE_INDUCE	An agent INCITES-INDUCES a patient using an instrument to do a result (+attribute)	bn:00082313v	Give an incentive for action	Spur, provoke, induce.
+va:0021f	SUBJECTIVE-JUDGING	A cause makes an agent JUDGE a theme as a value	bn:00087763v	Form a critical opinion of	Judge, grade.
+va:0022f	FOLLOW_SUPPORT_SPONSOR_FUND	An agent FOLLOWS-SUPPORTS-SPONSORS-FUNDS a beneficiary with an instrument to achieve a goal (+attribute)	bn:00082981v	Be behind; approve of 	Back, support, fund.
+va:0024f	PROVE	An agent PROVES a theme to a recipient using an instrument (+attribute)	bn:00086567v	Establish the validity of something, as by an example, explanation or experiment	Prove, demonstrate, evidence.
+va:0025f	AGREE_ACCEPT	An agent AGREES-ACCEPTS with a co-agent on a theme to a destination from a source (+attribute)	bn:00082475v	Be in accord; be in agreement	Accept, agree, be in accord.
+va:0029f	STOP	An agent STOPS a theme or a topic in a location for an extent or from a source to a goal using an instrument (+attribute)	bn:00089154v	Come to a halt, stop moving	Stop, block, halt.
+va:0030f	MOVE-ONESELF	An agent makes a theme MOVE ONESELF on a location for an extent from a source to a destination to a patient having a result (+ attribute)	bn:00083194v	Be in a state of action	Move (oneself).
+va:0032f	REQUIRE_NEED_WANT_HOPE	A cause makes an agent REQUIRE-NEED-WANT-HOPE for a theme from a source for a beneficiary to achieve a goal in exchange for a co-theme	bn:00091028v	Have need of	Wish, desire, need.
+va:0033f	FIND	An agent FINDS a theme in a location for a beneficiary using an instrument to achieve a goal (+attribute)	bn:00086708v	Discover or determine the existence, presence, or fact of	Find, discover, locate.
+va:0034f	FLOW	A cause makes an theme FLOW from a source to a destination	bn:00085894v	Move along of liquids	Flow.
+va:0035f	REPRIMAND	An agent REPRIMANDS a theme with an instrument (+attribute)	bn:00083177v	Censure severely or angrily	Chasten, rebuke, censure.
+va:0038f	GIVE-BIRTH	An agent GIVES BIRTH to a patient (+attribute)	bn:00083222v	Cause to be born	Give birth, expect, bear.
+va:0039f	CONTAIN	A location CONTAINS a value for a beneficiary	bn:00083225v	Contain or hold; have within	Contain, hold, carry.
+va:0040f	POSSESS	An agent POSSESSES a theme for a beneficiary (+attribute)	bn:00089241v	Have ownership or possession of	Carry, have, hold.
+va:0044f	EXHAUST	A stimulus EXHAUSTS an experiencer using an instrument	bn:00083268v	Wear out completely	Exhaust, strain.
+va:0045f	BELIEVE	An agent BELIEVES a theme (+attribute)	bn:00083369v 	Accept as true; take to be true	Believe, trust, suppose.
+va:0046f	BEGIN	An agent BEGINS a theme with an instrument from a source to reach a goal (+attribute)	bn:00083340v	Take the first step or steps in carrying out an action	Begin, start, commence.
+va:0048f	DRINK	An agent DRINKS a patient from a source	bn:00087321v	Take in liquids	Drink.
+va:0049f	RELY	An agent RELIES on a theme to achieve a goal	bn:00083095v	Have confidence or faith in	Rely on, depend on.
+va:0050f	OBLIGE_FORCE	A cause makes an agent OBLIGES-FORCE a patient to do a goal from a source	bn:00085459v	Force somebody to do something	Obligate, force, oblige.
+va:0051f	EAT_BITE	An agent EATS a patient	bn:00087460v	Take in solid food	Eat, bite.
+va:0052f	HARMONIZE	An agent HARMONIZES a theme with a goal for a purpose	bn:00089218v	Bring (several things) into consonance or relate harmoniously	Harmonize, readapt, concord.
+va:0053f	DISAPPEAR	An agent makes a patient DISAPPEAR from a location for an extent to a destination-state	bn:00086880v	Become invisible or unnoticeable	Disappear, vanish.
+va:0054f	JUMP	A cause makes a theme JUMP a patient from a source to a destination for an extent	bn:00083833v	Move forward by leaps and bounds	Jump, skip, hop.
+va:0056f	ROLL	An agent ROLLS a theme in a location (+attribute)	bn:00092995v	Cause to move by turning over or in a circular manner of as if on an axis	Curl, roll, roll up.
+va:0057f	RESERVE	An agent reserve a THEME for a beneficiary (+attribute)	bn:00083774v	Arrange for and reserve (something for someone else) in advance	Reserve, hold, book up.
+va:0058f	BREAK_DETERIORATE	An agent BREAKS-DETERIORATES a patient using an instrument having a result (+attribute)	bn:00083901v	Become separated into pieces or fragments	Break, crack, break into pieces.
+va:0059f	EMIT	A source EMITS a theme to a destination for an extent (+attribute)	bn:00087565v	Give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.	Emit, radiate.
+va:0060f	BRING	An agent BRINGS a theme to a destination from a source in favour of a beneficiary (+attribute)	bn:00084058v	Take something or somebody with oneself somewhere	Bring, convey.
+va:0061f	BULGE-OUT	An agent makes a theme BULGE OUT from a source to a destination	bn:00084194v	Pop outward	Protrude, bulge, pop out.
+va:0062f	KILL	An agent KILLS a patient with an instrument in a location (+attribute)	bn:00090098v	Cause to die; put to death, usually intentionally or knowingly	Kill, extinguish, wipe out.
+va:0064f	CALCULATE_ESTIMATE	A cause makes an agent CALCULATE-ESTIMATE the value of a theme for each co-theme to reach a goal	bn:00082743v	Judge tentatively or form an estimate of (quantities or time)	Assess, calculate, estimate.
+va:0065f	NAME	An agent NAMES a theme with a result (+attribute)	bn:00088735v	Communicate with a place or person; establish communication with as if by telephone	Name, call, title.
+va:0066f	COMMUNICATE_CONTACT	An agent COMMUNICATES-CONTACTS a patient or a recipient about a topic	bn:00088735v	Communicate with a place or person; establish communication with as if by telephone	Contact, call.
+va:0067f	SUMMON	A cause makes an agent SUMMON a patient in a location for a beneficiary to achieve a goal	bn:00094589v	Ask to come	Summon, call in.
+va:0068f	VISIT	An agent VISITS a location from a source for an extent	bn:00084390v 	Pay a brief visit	Visit, drop by.
+va:0069f	READ	An agent READS a theme regarding a topic to a recipient	bn:00092424v	Interpret something that is written or printed	Read.
+va:0071f	LURE_ENTICE	An agent LURES-ENTICES an experiencer with an instrument from a source to achieve a goal	bn:00087689v	Provoke someone to do something through (often false or exaggerated) promises or persuasion	Tempt, entice, lure.
+va:0072f	ORDER	An agent ORDERS a patient (+attribute)	bn:00087644v	Give instructions to or direct somebody to do something with authority	Order, ordain, dictate.
+va:0074f	CONSIDER	An agent CONSIDERS a theme as attribute to achieve a goal	bn:00085648v	Give careful consideration to	Consider, reconsider.
+va:0076f	REMEMBER	An agent REMEMBERS a theme to a recipient (+attribute)	bn:00084413v	Recall knowledge from memory; have a recollection	Remember, recall, remind.
+va:0077f	RECALL	An agent RECALLS a theme from a source	bn:00084412v	Cause to be returned	Call back, retire.
+va:0078f	DISMISS_FIRE-SMN	An agent DISMISSES-FIRES a theme from a source	bn:00084451v	Terminate the employment of; discharge from an office or position	Dismiss, fire, force out.
+va:0079f	CATCH	An agent CATCHES a theme from a source in a location in favour of a beneficiary (+attribute)	bn:00084654v	Take hold of so as to seize or restrain or stop the motion of	Catch, grab, clutch.
+va:0080f	IMPLY	A cause IMPLIES a topic for a recipient	bn:00087672v	Have as a logical consequence	Imply, connote, entail.
+va:0081f	WIN	An agent WINS a patient of an asset for a beneficiary in a theme against a co-agent	bn:00095777v	Be the winner in a contest or competition; be victorious	Win.
+va:0082f	INCLUDE-AS	An agent INCLUDES a patient in a goal with an instrument (+attribute)	bn:00089660v	Have as a part, be made up out of	Encompass, comprise, include.
+va:0083f	SEND	An agent SENDS a theme to a destination	bn:00090548v	Cause to be directed or transmitted to another place	Send, send off.
+va:0086f	PERSUADE	An agent PERSUADES a patient to do a result	bn:00091565v	Cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm	Persuade, dissuade.
+va:0089f	GROW_PLOW	An agent GROWS-PLOWS a patient with an instrument on a location	bn:00089085v	Cause to grow or develop	Grow, fructify, crop.
+va:0091f	ADJUST_CORRECT	An agent ADJUSTS-CORRECTS a patient with an instrument from a source-state to a goal-state for a purpose producing a product	bn:00082357v	Alter or regulate so as to achieve accuracy or conform to a standard	Adjust, correct.
+va:0092f	HIT	An agent HITS a patient with an instrument with a result (+attribute)	bn:00089347v	Deal a blow to, either with the hand or with an instrument	Hit, beat, smash.
+va:0093f	UNDERSTAND	An experiencer UNDERSTANDS a stimulus (+attribute)	bn:00095375v	Know and comprehend the nature or meaning of	Understand, realize.
+va:0094f	HEAR_LISTEN	An experiencer HEARS-LISTENS a stimulus from a source	bn:00089277v	Perceive (sound) via the auditory sense	Hear, listen.
+va:0096f	THINK	An agent THINKS about a theme (+attribute)	bn:00084733v	Use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments	Think, wonder, contemplate.
+va:0097f	TAKE-A-SERVICE_RENT	An agent TAKES A SERVICE-RENTS a theme for a goal from a source for an asset for an extent-time	bn:00090267v	Let for money	Lease, rent, charter.
+va:0099f	CHOOSE	A cause makes an agent CHOOSE a theme from a source for a goal (+attribute)	bn:00084931v	Pick out, select, or choose from a number of alternatives	Choose, vote, prefer.
+va:0101f	APPROVE_PRAISE	An agent APPROVES-PRAISES a theme for an attribute in favour of a beneficiary with an instrument on a location	bn:00091913v	Express approval of	Congratulate, praise, glorify.
+va:0103f	RESULT_CONSEQUENCE	An agent with a co-agent makes a theme RESULT-HAVE AS CONSEQUENCE a goal using an instrument	bn:00092913v	Come about or follow as a consequence	Have a result or a consequence.
+va:0104f	EXIST-WITH-FEATURE	A cause makes a theme EXISTS WITH THE FEATURE attribute to achieve a goal having a value	bn:00083181v	Have the quality of being; (copula, used with an adjective or a predicate noun)	Be something, have a feature.
+va:0105f	COME-FROM	An agent COMES FROM a source	bn:00091204v	Originate	Come from, issue forth, originate in.
+va:0111f	HAPPEN_OCCUR	An agent makes a theme and a co-theme HAPPEN to an experiencer in a location (+attribute)	bn:00085337v	Come to pass	Happen, occur, fall.
+va:0112f	COME-AFTER_FOLLOW-IN-TIME	An agent makes a theme COME AFTER-FOLLOW IN TIME a co-theme (+attribute)	bn:00088422v	Be later in time	Come after, follow (in time).
+va:0113f	START-FUNCTIONING	An agent makes a patient START FUNCTIONING	bn:00085374v	Start running functioning or operating	Start functioning, go on.
+va:0114f	CONTINUE	An agent with a co-agent make a theme CONTINUE from a source to a destination using an instrument (+attribute)	bn:00085714v	Continue a certain state condition or activity	Continue, keep, persist.
+va:0119f	LEAVE_DEPART_RUN-AWAY	A cause makes a theme LEAVE-DEPART-RUN AWAY from a source to a destination at a time (+attribute +idiom)	bn:00088939v	Go away from a place	Depart, go away, leave.
+va:0121f	COMMUNE	An agent gives COMMUNION to a theme (+attribute)	bn:00093253v	Give religious sanction to, such as through on oath	Administer Communion, bless.
+va:0122f	TRANSMIT	An agent TRANSMITS a theme from a source to a recipient with an instrument	bn:00084790v	Send from one person or place to another	Transmit, transfer.
+va:0124f	IMAGINE	A cause makes an agent IMAGINE a theme (+attribute)	bn:00085516v	Form a mental image of something that is not present or that is not the case	Imagine, visualize, daydream.
+va:0125f	LEAD_GOVERN	An agent LEADS-GOVERNS a theme with an instrument for a beneficiary (+attribute)	bn:00089260v	Be in charge of	Lead, direct, chair.
+va:0126f	RESTRAIN	A cause RESTRAINS a patient from a goal using an instrument	bn:00083834v	Place limits on (extent or access)	Restrain, confine, restrict.
+va:0128f	PRESERVE	An agent PRESERVES a patient against a theme	bn:00083242v	Keep or maintain in unaltered condition; cause to remain or last	Preserve, conserve.
+va:0129f	GUESS	An agent GUESSES a theme with an asset to a recipient	bn:00082668v	Make a prediction about; tell in advance	Guess, foretell, vaticinate.
+va:0130f	DECREE_DECLARE	An agent DECREES-DECLARES result a theme regarding a topic to a recipient (+attribute)	bn:00086420v	Decide with authority	Declare, rule.
+va:0131f	TAKE-INTO-ACCOUNT_CONSIDER	An agent TAKES INTO ACCOUNT-CONSIDERS a theme (+attribute)	bn:00085650v	Show consideration for; take into account	Take into account, consider, weigh.
+va:0133f	WASTE	An agent WASTES a patient to achieve a goal	bn:00095663v	Use inefficiently or inappropriately	Waste, squander, blow.
+va:0134f	DESTROY	An agent DESTROYS a patient with an instrument having a result	bn:00086699v	Destroy completely; damage irreparably	Ruin, smash, destroy.
+va:0135f	CONSUME_SPEND	An agent CONSUMES-SPENDS a patient from a source to achieve a goal using an instrument in favour of a beneficiary	bn:00085692v	Use up (resources or materials)	Spend, consume, exhaust.
+va:0137f	GO-FORWARD	A cause makes an agent GO FORWARD from a source to a destination  for an extent using an instrument on a location to achieve a goal	bn:00088912v	Change location; move travel or proceed also metaphorically	Go forward.
+va:0138f	CONTRACT-AN-ILLNESS_INFECT	An agent makes a patient CONTRACT-BE INFECTED BY a theme from a source	bn:00085727v	Be stricken by an illness, fall victim to an illness	Contract an illness, infect.
+va:0139f	CORRODE_WEAR-AWAY_SCRATCH	An agent CORRODES-WEARS AWAY-SCRATCHES a patient with an instrument from a source	bn:00087466v	Wear away or erode	Scrape, corrode.
+va:0140f	CRY	An agent CRIES a theme regarding a topic to a recipient	bn:00086122v	Shed tears because of sadness, rage, or pain	Cry, wail, weep.
+va:0141f	KNOCK-DOWN	An agent KNOCKS DOWN a patient with an instrument for an extent from a source to a destination	bn:00086221v	Cause to come or go down	Knock down, cut down, pull down.
+va:0142f	WET	An agent WETS a patient with an instrument	bn:00095714v	Cause to become wet	Wet, sprinkle, moisten.
+va:0143f	ARGUE-IN-DEFENSE	An agent ARGUES a theme regarding a topic IN DEFENSE of a co-agent	bn:00086452v	Argue or speak in defense of	Defend, support, fend for.
+va:0145f	RESIST	An experiencer RESISTS a stimulus to achieve a goal	bn:00089411v	Stand up or offer resistance to somebody or something	Resist, withstand, defy.
+va:0147f	CARRY-OUT-ACTION	A cause makes an agent CARRY OUT AN ACTION-patient using an instrument to achieve a goal	bn:00082285v	Perform an action or work out or perform (an action)	Make, do, execute.
+va:0148f	DIVERSIFY	An agent DIVERSIFIES a patient having a result using an instrument from a source state for an extent	bn:00087094v	Make (more) diverse	Diversify, variegate, differentiate.
+va:0149f	CHANGE-HANDS	An agent makes a theme CHANGE HANDS with a co-agent or with a co-theme	bn:00084780v	Be transferred to another owner	Change (hands), transfer.
+va:0150f	ENJOY	An experiencer ENJOYS a stimulus using an instrument	bn:00083145v	Derive or receive pleasure from; get enjoyment from; take pleasure in	Enjoy.
+va:0152f	SPILL_POUR	An agent SPILL-POUR a theme from a source to a destination	bn:00093899v	Cause or allow (a liquid substance) to run or flow from a container	Spill, pour, extravasate.
+va:0153f	MOVE-SOMETHING	An agent MOVES a theme from a source to a destination for an extent using an instrument to achieve a goal (+attribute)	bn:00087012v	Cause to move or shift into a new position or place both in a concrete and in an abstract sense	Move (something).
+va:0154f	REPLACE	An agent REPLACES a theme of a source state with a co-agent leaving the place to a co-theme for a beneficiary	bn:00092816v	Substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected)	Replace, exchange, substitute.
+va:0155f	WASH_CLEAN	An agent WASHES-CLEANS a patient of a theme using an instrument having a result	bn:00085059v	Make clean by removing dirt filth or unwanted substances from	Wash, clean, rinse.
+va:0156f	DEFEAT	An agent DEFEATS a patient in a theme (competition) to achieve a goal	bn:00083247v	Come out better in a competition race or conflict	Beat, defeat, overcome.
+va:0157f	AMELIORATE	An agent AMELIORATES a patient of an extent using an instrument with a result starting from a material	bn:00082573v	To make better	Refine, make better.
+va:0159f	CELEBRATE_PARTY	An agent CELEBRATES-PARTIES a theme (+attribute)	bn:00084715v	Have a celebration	Commemorate, celebrate.
+va:0160f	EXCRETE	A cause makes a source EXCRETE a theme to a destination	bn:00087499v	Eliminate from the body	Excrete, expectorate, bleed.
+va:0162f	SHOW	An agent SHOWS a theme to a recipient from a source on a location (+attribute)	bn:00093682v	Make visible or noticeable	Show, expose, exhibit.
+va:0165f	UNDERGO-EXPERIENCE	An experiencer UNDERGOES AN EXPERIENCE from a stimulus	bn:00095355v	Pass through	Undergo, experience.
+va:0166f	EXTRACT	An agent EXTRACTS a theme from a source in a location using an instrument	bn:00086642v	Pull up by or as if by the roots	Extract, distil, dig.
+va:0167f	EXTEND	An agent EXTENDS a theme of an extent from a source to a destination using an instrument	bn:00087905v	Stretch out over a distance space time or scope; run or extend between two points or beyond a certain point	Extend, stretch out.
+va:0170f	FIT	An agent makes a value FIT in a location	bn:00088240v	Be the right size or shape; fit correctly or as desired	Fit, suit, accommodate.
+va:0173f	FOLLOW-IN-SPACE	An agent FOLLOWS IN SPACE a theme on a location	bn:00088421v	To travel behind go after come after	Follow in space, heel.
+va:0174f	LOCATE-IN-TIME_DATE	An agent LOCATES IN TIME-DATES a theme to a destination	bn:00086299v	Provide with a dateline; mark with a date	Date, locate in time.
+va:0175f	TRAVEL	A cause makes an agent TRAVEL on a location to a destination	bn:00088748v	Move around; move from place to place	Travel, wander.
+va:0176f	ANALYZE	An agent ANALYZES a theme for a beneficiary to achieve a goal (+attribute)	bn:00082596v	Consider in detail and subject to an analysis in order to discover essential features or meaning	Analyze, examine, scan.
+va:0177f	INFORM	An agent INFORMS a recipient of a topic using an instrument	bn:00089724v	Impart knowledge of some fact state or affairs or event to	Inform, report, tell.
+va:0181f	PRECLUDE_FORBID_EXPEL	An agent PRECLUDES-FORBIDS a theme or EXPELS a beneficiary from a theme using an instrument (+attribute)	bn:00086877v 	Command against	Prevent, preclude, forbid.
+va:0182f	LIBERATE_ALLOW_AFFORD	An agent LIBERATES-ALLOWS-AFFORDS a patient from a source in favour of  a beneficiary	bn:00082536v	Make it possible through a specific action or lack of action for something to happen	Allow, afford, liberate.
+va:0183f	OPERATE	An agent OPERATES a patient with a co-agent using an instrument on a location to achieve a goal (+attribute)	bn:00085744v	Handle and cause to function	Operate, run, work.
+va:0185f	BUY	An agent BUYS a theme at an asset from a source for a beneficiary	bn:00084331v	Obtain by purchase; acquire by means of a financial transaction	Buy, purchase.
+va:0186f	RECEIVE	An agent RECEIVES a theme of a value from a source (+attribute)	bn:00089246v	Get something; come into possession of	Receive, get.
+va:0188f	ORGANIZE	An agent ORGANIZES a theme and a co-theme with a material having a result in favour of a beneficiary (+attribute)	bn:00086870v	Organize (the production of something) into an industry	Organize, set up.
+va:0189f	GIVE_GIFT	An agent GIVES-GIFTS a theme in exchange for a co-theme to a recipient to achieve a goal from a source (+attribute)	bn:00088815v	Transfer possession of something concrete or abstract to somebody	Give, grant, present.
+va:0196f	COMPARE	An agent COMPARES a theme to a co-theme	bn:00085450v	Examine and note the similarities or differences of	Make a comparison.
+va:0197f	SEARCH	An agent SEARCHES a theme on a location to achieve a goal	bn:00090460v	Try to locate or discover, or try to establish the existence of	Search, browse, explore.
+va:0198f	HELP_HEAL_CARE_CURE	An agent HELPS-HEALS-CARES-CURES a beneficiary from a theme using an instrument having a result	bn:00082481v	Give help or assistance; be of service	Heal, relieve, save.
+va:0200f	HAVE-SEX	A cause makes an agent HAVE SEX with a co-agent (+theme)	bn:00083081v	Have sexual intercourse with	Have sex, make out.
+va:0201f	AFFECT	An agent makes a stimulus AFFECT an experiencer with a theme using an instrument	bn:00082426v	Have an effect upon	Affect.
+va:0202f	SHOOT_LAUNCH_PROPEL	An agent SHOOTS-LAUNCHES-PROPELS a theme to a destination	bn:00090214v	Propel with force	Shoot, fire, propel.
+va:0204f	ATTACK_BOMB	An agent ATTACKS-BOMBS a patient due to a topic using an instrument (+attribute)	bn:00082838v	Launch an attack or assault on; begin hostilities or start warfare with	Attack, assail, storm.
+va:0205f	COURT	An agent COURTS a co-agent	bn:00085896v	Make amorous advances towards	Flirt, court.
+va:0206f	SECURE_FASTEN_TIE	An agent SECURES-FASTENS-TIES a patient to a co-patient using an instrument (+attribute)	bn:00088052v	Cause to be firmly attached	Tie, bind, fasten.
+va:0207f	STABILIZE_SUPPORT-PHYSICALLY	An agent STABILIZES-SUPPORTS PHYSICALLY a patient on a location using an instrument	bn:00083855v	Support or hold steady and make steadfast with or as if with a brace	Stabilize physically, hold, brace.
+va:0212f	CLOSE	An agent CLOSES a patient from a source to a goal using an instrument	bn:00085162v	Move so that an opening or passage is obstructed; make shut	Close, seal, shut.
+va:0213f	MEAN	A theme MEANS a co-theme	bn:00089805v	Mean or intend to express or convey	Mean, signify, intend.
+va:0216f	RECORD	An agent RECORDS a theme on a destination using an instrument (+attribute)	bn:00091603v	Register (perceptual input)	Record, register.
+va:0217f	ALLY_ASSOCIATE_MARRY	A cause makes an agent ALLY-ASSOCIATE-MARRY a co-agent for a theme using an instrument having a result	bn:00082869v	Bring or come into association or action	Ally, associate, marry.
+va:0219f	RAISE	An agent RAISES a theme of an extent on a location from a source to a destination	bn:00084110v	Raise from a lower to a higher position	Lift, ascend, raise.
+va:0222f	OVERLAP	An agent OVERLAPS a patient on a co-patient for an extent	bn:00091311v	Coincide partially or wholly	Overlap, intersect.
+va:0225f	STUDY	A cause makes an agent STUDY a topic	bn:00090266v	Be a student of a certain subject	Study, learn.
+va:0227f	PROPOSE	An agent PROPOSES a topic to a recipient to achieve a goal (+attribute)	bn:00082417v	Make a proposal declare a plan for something	Propose, suggest, submit.
+va:0228f	TOUCH	An agent TOUCHES an experiencer to a destination using an instrument (+attributes)	bn:00095040v	Make physical contact with, come in contact with	Touch, rub, manipulate.
+va:0229f	SELL	An agent SELLS a theme to a recipient for an asset in favour of a beneficiary compared to a co-agent (+attribute)	bn:00093472v	Exchange or deliver for money or its equivalent	Sell, deal, market.
+va:0231f	NOURISH_FEED	An agent NOURISHES-FEEDS a recipient with a theme using an instrument to achieve a goal	bn:00091098v	Provide with nourishment	Nourish, feed.
+va:0233f	SPEND-TIME_PASS-TIME	An agent SPENDS-PASSES an asset of TIME to achieve a goal	bn:00083190v	Spend or use time	Spend time, pass time.
+va:0234f	THROW	An agent THROWS a theme to a destination	bn:00094934v	Propel through the air	Throw, pitch, toss.
+va:0235f	SUPPOSE	An agent SUPPOSES a theme (+attribute)	bn:00092001v	Take for granted or as a given; suppose beforehand	Suppose, assume, take for granted.
+va:0236f	INTERPRET	An agent INTERPRETS a theme from a source as an attribute	bn:00085683v	Make sense of; assign a meaning to	Interpret, see as.
+va:0239f	REMOVE_TAKE-AWAY_KIDNAP	An agent REMOVES-TAKES AWAY-KIDNAPS a patient in exchange for a co-patient from a source to a destination for an extent using an instrument	bn:00092783v	Remove something concrete as by lifting, pushing or taking off or remove something abstract	Strip, remove, take out.
+va:0240f	MAKE-A-SOUND	An agent MAKES a patient do A SOUND theme from a source to a recipient on a location (+attribute)	bn:00088919v	Make a certain noise or sound	Make a sound.
+va:0241f	REDUCE_DIMINISH	An agent REDUCES-DIMINISHES the attribute of a patient of an extent from a source-state to a goal-state using an instrument on a location	bn:00084079v	Cut down on; make a reduction in	Reduce, moderate, shorten.
+va:0242f	MOVE-BY-MEANS-OF	An agent MOVES BY MEANS OF an instrument or MOVES a theme to a destination (+attribute)	bn:00087340v	Proceed along in a vehicle	Move (by means of something).
+va:0243f	CONQUER	An agent CONQUERS a patient	bn:00082739v	Take possession of by force, as after an invasion	Colonize, conquer, take.
+va:0244f	VERIFY	A cause makes an agent VERIFY a theme using an instrument	bn:00095516v	Confirm the truth of	Verify, check, control.
+va:0245f	TAKE-SHELTER	An agent makes a theme TAKE SHELTER in a location (+attribute)	bn:00093607v	Provide shelter for	Take shelter.
+va:0247f	CIRCULATE_SPREAD_DISTRIBUTE	An agent CIRCULATES-SPREADS-DISTRIBUTES a theme to a recipient from a source using an instrument (+attribute)	bn:00087063v	Distribute or disperse widely	Circulate, propagate, spread.
+va:0248f	CONVERT	An agent CONVERTS a patient in a result from a source state  with a co-agent in favour of a beneficiary	bn:00085761v	Change the nature, purpose or function of something	Convert, transform.
+va:0249f	COVER_SPREAD_SURMOUNT	An agent COVERS-SPREADS-SURMOUNTS a destination with a theme using an instrument	bn:00085903v	Provide with a covering or cause to be covered	Cover, coat, spread.
+va:0251f	PROTECT	An agent PROTECTS a beneficiary from a theme using an instrument for a patient	bn:00092103v	Shield from danger, injury, destruction, or damage	Protect, guard, cover.
+va:0253f	GIVE-UP_ABOLISH_ABANDON	An agent GIVES UP-ABOLISHES-ABANDONS a patient to a recipient in exchange for a co-patient	bn:00082119v	Give up with the intent of never claiming again	Give up, abandon, foreswear.
+va:0255f	DISCARD	An agent DISCARDS theme from a source in favour of a beneficiary using an instrument on a location (+attribute)	bn:00084634v	Throw or cast away	Shed, throw away, discard.
+va:0259f	ATTRACT_SUCK	An agent ATTRACTS-SUCKS a patient from a source to a destination using an instrument	bn:00082920v	Direct toward itself or oneself by means of some psychological power or physical attributes	Attract, suck in, draw in.
+va:0260f	ABSTAIN_AVOID_REFRAIN	An agent ABSTAINS-AVOIDS-REFRAINS from using a theme from a source using an instrument	bn:00082958v	Stay clear from; keep away from; keep out of the way of someone or something	Avoid, abstain, refrain.
+va:0261f	DIET	An agent DIETS	bn:00088050v	Abstain from eating	Diete, fast.
+va:0264f	ACCOMPANY	An agent ACCOMPANIES a theme from a source to a destination (+attribute)	bn:00082222v	Go or travel along with	Accompany, escort, go with.
+va:0266f	COMPENSATE	An agent COMPENSATE a theme with a co-theme	bn:00083045v	Bring into balance or equilibrium	Compensate, equilibrate, balance.
+va:0267f	CHARGE	A cause makes an agent CHARGE a recipient of an asset	bn:00082852v	Charge (a person or a property) with a payment, such as a tax or a fine	Charge, bill, tax.
+va:0272f	ACCUSE	An agent ACCUSES a theme to achieve a goal (+attribute)	bn:00082250v	Blame for, make a claim of wrongdoing or misbehavior against	Accuse, charge, blame.
+va:0274f	CHANGE-TASTE	An agent CHANGES TASTE of a patient having a result using a material in favour of a beneficiary	bn:00084789v	Alter the flavor of	Change (taste).
+va:0276f	HUNT	An agent HUNTS a theme using an instrument	bn:00089521v	Pursue for food or sport (as of wild animals)	Hunt.
+va:0277f	BENEFIT_EXPLOIT	An agent BENEFITS-EXPLOITS a theme for a purpose	bn:00083413v	Derive a benefit from	Benefit from, exploit, take advantage.
+va:0279f	EARN	A theme EARNS an asset from a source in favour of a beneficiary	bn:00084089v	Earn on some commercial or business transaction; earn as salary or wages	Earn.
+va:0281f	SOLVE	An agent SOLVES a theme using an instrument	bn:00082649v	Understand the meaning of	Solve, unravel, troubleshoot.
+va:0282f	TURN_CHANGE-DIRECTION	An agent makes a theme TURN-CHANGE DIRECTION to a destination from a source	bn:00095233v	Change orientation or direction, also in the abstract sense	Turn, turn away, veer.
+va:0285f	WATCH_LOOK-OUT	An agent WATCHES-LOOKS OUT for a theme using an instrument to achieve a goal (+attribute)	bn:00090464v	Be vigilant be on the lookout or be careful	Supervise, monitor, look out.
+va:0287f	PRECEDE	A cause make a theme PRECEDES a co-theme	bn:00082660v	Be earlier in time; go back further	Precede, predate.
+va:0288f	APPEAR	An agent makes a theme APPEAR in a location (+attribute)	bn:00082691v	Come into sight or view	Appear, turn out.
+va:0289f	OPEN	An agent OPENS a patient to a recipient using an instrument (+attribute)	bn:00091165v	Cause to open or to become open	Open, open up.
+va:0290f	OBTAIN	An agent OBTAINS a theme from a source in exchange for an asset to a destination using an instrument	bn:00091124v	Come into possession of	Get, inherit, obtain.
+va:0292f	REACH	A cause makes a theme REACH a goal in a location in favour of a beneficiary	bn:00085326v	Extend or reach	Reach, culminate, come.
+va:0294f	FAKE	An agent FAKES a theme	bn:00085786v	Tamper with the purpose of deception	Fake, manipulate, rig.
+va:0297f	CHASE	An agent CHASES a theme to a destination using an instrument	bn:00084831v	Go after with the intent to catch	Chase, chase after, tail.
+va:0298f	HIRE	An agent HIRES a theme from a source (+attribute)	bn:00087576v	Engage or hire for work	Hire, enlist, recruit.
+va:0299f	FUEL	An agent FUELS a patient from a source	bn:00088228v	Provide with fuel	Fuel, charge.
+va:0301f	STEAL_DEPRIVE	An agent STEALS-DEPRIVES a source of a theme of a value in favour of a beneficiary	bn:00086636v	Take away possessions from someone	Steal, deprive, plunder.
+va:0304f	SHARE	An agent SHARES with a co-agent a theme	bn:00093574v	Use jointly or in common	Share, partake.
+va:0306f	PAY	An agent PAYS to a recipient an asset of an extent for a theme in favour of a beneficiary from a source	bn:00091493v	Give money, usually in exchange for goods or services	Pay, pay off, compensate.
+va:0307f	ISOLATE	An agent ISOLATES a patient in favour of a beneficiary	bn:00089800v	Place or set apart	Isolate, cloister.
+va:0310f	SUMMARIZE	An agent SUMMARIZES a topic in a result for a beneficiary	bn:00092916v	Give a summary (of)	Summarize, sketch, sum up.
+va:0311f	TREAT	An agent TREATS a theme as an attribute using an instrument	bn:00087116v	Interact in a certain way	Treat in some way (e.g. mistreat).
+va:0312f	EMPHASIZE	An agent EMPHASIZE a theme to a recipient using an instrument (+attribute)	bn:00082195v	To stress, single out as important	Emphasize, stress, accentuate.
+va:0313f	QUARREL_POLEMICIZE	An agent QUARRELS-POLEMICIZES with a co-agent over a theme	bn:00082558v	Have a disagreement over something	Quarrel, dispute, clash.
+va:0314f	EXPLAIN	An agent EXPLAINS a topic to a recipient in a location using an instrument (+attribute)	bn:00087869v	Make plain and comprehensible	Explain, comment, elucidate.
+va:0316f	RECOGNIZE_ADMIT_IDENTIFY	An agent RECOGNIZES-ADMITS-IDENTIFIES a topic to a recipient from a source (+attribute)	bn:00082267v	Declare to be true or admit the existence or reality or truth of	Recognize, identify, admit.
+va:0317f	KNOW	An experiencer KNOWS a theme regarding a topic from a source (+attribute)	bn:00085261v	Be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about	Know.
+va:0318f	WARN	An agent WARNS a recipient of a topic	bn:00095642v	Notify of danger, potential harm, or risk	Warn, admonish.
+va:0320f	RISK	An agent RISKS a theme for a goal (+attribute)	bn:00090231v	Expose to a chance of loss or damage	Venture, embark, risk.
+va:0321f	GROUP	An agent GROUPS a theme from a source in a result using an instrument	bn:00082465v	Form a group or group together	Crowd, group, assemble.
+va:0322f	ALTERNATE	An agent ALTERNATES a theme with a co-theme having a result	bn:00082559v	Go back and forth; swing back and forth between two states or conditions	Alternate, swing between two states.
+va:0324f	ANSWER	An agent ANSWERS a theme over a topic	bn:00082646v	React verbally	Answer, reply.
+va:0325f	REACT	An experiencer REACTS to a stimulus in a result	bn:00082901v	Reach a point in time, or a certain state or level	React, answer, respond.
+va:0326f	OPPOSE_REBEL_DISSENT	An agent OPPOSES-REBELS-DISSENTS over a theme using an instrument	bn:00091180v	Be against; express opposition to	Oppose, protest, counteract.
+va:0327f	WRITE	An agent WRITES a result about a topic using an instrument to a recipient on a destination	bn:00095847v	Communicate or express by writing	Write, transcribe, scribble.
+va:0329f	JOKE	An agent JOKES with a co-agent about a theme using an instrument (+attribute)	bn:00089961v	Tell a joke; speak humorously	Fool, kid, mock.
+va:0330f	ASK_REQUEST	An agent ASK-REQUESTS a theme to a recipient for a goal (+attribute)	bn:00082818v	Make a request or demand for something to somebody	Ask, demand, question.
+va:0331f	TRY	An agent TRIES a theme for a co-theme using an instrument	bn:00082844v	Make an effort or attempt	Try, try out, experiment.
+va:0332f	TYPE	An agent TYPES a patient	bn:00095295v	Write by means of a keyboard with types	Type.
+va:0333f	REFUSE	A cause makes an agent REFUSE a theme to a recipient for a goal (+attribute)	bn:00086391v	Show unwillingness towards	Deny, reject, refuse.
+va:0334f	PUBLICIZE	An agent PUBLICIZES a theme to a recipient (+attribute)	bn:00082414v	Make publicity for; try to sell (a product)	Publicize, bill.
+va:0336f	DISCUSS	An agent DISCUSSES with a co-agent about a topic (+attribute)	bn:00086942v	Speak with others about (something); talk (something) over in detail; have a discussion	Discuss, debate, talk about.
+va:0337f	PREPARE	An agent and a co-agent PREPARE a product with a material for a beneficiary for a purpose to a goal for an extent using an instrument	bn:00088250v	Make ready or suitable or equip in advance for a particular purpose or for some use, event, etc	Prepare, warm up, set up.
+va:0338f	NEGOTIATE	An agent NEGOTIATES a theme regarding a topic with a co-agent in favour of a beneficiary	bn:00091037v	Discuss the terms of an arrangement	Negotiate, intercede, mediate.
+va:0339f	LAUGH	An agent LAUGHS a topic to a recipient towards a destination (+attribute)	bn:00087901v	Produce laughter	Laugh, scoff, convulse.
+va:0340f	SHOUT	An agent SHOUTS a topic to a recipient	bn:00083174v	Shout loudly and without restraint	Shout, bawl, holler.
+va:0341f	REPRESENT	An agent REPRESENTS a theme as a co-theme (+attribute)	bn:00085839v	Take the place of or be parallel or equivalent to	Represent, embody, personify.
+va:0343f	FOCUS	An agent FOCUSES a theme on a topic (+attribute)	bn:00084726v	Direct one's attention on something	Focus, center.
+va:0344f	LIKE	A cause makes an experiencer LIKE a stimulus using an instrument (+attribute)	bn:00090362v	Find enjoyable or agreeable	Love, like, admire.
+va:0345f	TEACH	An agent TEACHES to a recipient a topic using an instrument	bn:00089791v	Impart skills or knowledge to	Teach, train, drill.
+va:0346f	SIGNAL_INDICATE	An agent SIGNALS-INDICATES a topic to a recipient using an instrument in a location	bn:00083436v	Be a signal for or a symptom of	Indicate, signal, mark.
+va:0347f	SING	An agent SINGS a theme for a beneficiary	bn:00093758v	Produce tones with the voice	Sing.
+va:0348f	REVEAL	An agent REVEALS a topic to a recipient (+attribute)	bn:00083912v	Make known to the public information that was previously known only to a few people or that was meant to be kept a secret	Reveal, betray.
+va:0349f	BETRAY	goal	bn:00083456v	Deliver to an enemy by treachery	Betray, cheat.
+va:0354f	PAINT	An agent PAINTS a result on a destination with an instrument for a beneficiary	bn:00091390v	Apply paint to; coat with paint	Paint, draw, stipple.
+va:0355f	LOWER	An agent LOWERS a theme of an extent from a source to a destination in a location in favour of a beneficiary	bn:00084074v	Move something or somebody to a lower position	Lower, sink.
+va:0356f	VIOLATE	An agent VIOLATES a theme using an instrument to achieve a goal	bn:00083897v	Act in disregard of laws rules contracts or promises	Violate, intrude, trespass.
+va:0357f	PUBLISH	An agent PUBLISHES a theme to a recipient	bn:00084099v	Prepare and issue for public distribution or sale	Publish, issue, bring out.
+va:0360f	FIGHT	An agent FIGHTS against a co-agent on a topic	bn:00085711v	Be engaged in a fight; carry on a fight	Fight, wrestle.
+va:0361f	PUT_APPLY_PLACE_PAVE	An agent PUTS-APPLIES-PLACES-PAVES a location with a theme using an instrument (+attribute)	bn:00090224v	Put into a certain place or abstract location	Put, apply, place.
+va:0362f	BEFRIEND	An agent BEFRIENDS a co-agent	bn:00083329v	Become friends with	Befriend, bond, relate.
+va:0364f	MEASURE_EVALUATE	An agent MEASURE-EVALUATES the value of a theme from a source to a destination for an extent using an instrument on a patient	bn:00090715v	Express as a number or measure or quantity	Measure, scale, evaluate.
+va:0366f	ADD	An agent ADDS a patient to a co-patient for an extent having a result	bn:00082317v	Make an addition (to); join or combine or unite with others; increase the quality quantity size or scope of	Add, add together, supplement.
+va:0368f	MEET	A cause makes a theme MEET a co-theme	bn:00085339v	Come together	Meet, reunite, come together.
+va:0369f	SIGN	An SIGNS with a patient a theme to a recipient	bn:00093733v	Communicate silently and non-verbally by signals or signs	Sign, nod.
+va:0372f	DEBASE_ADULTERATE	An agent DEBASES-ADULTERATES a patient for an extent using an instrument from a source to achieve a goal	bn:00082391v	Corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones	Devalue, debase.
+va:0373f	FACE_CHALLENGE	A cause makes an agent FACE-CHALLENGE a theme with a goal using an instrument (+attribute)	bn:00085595v	Oppose as in hostility or a competition	Face, confront, take on.
+va:0379f	COUNT	An agent COUNTS a theme	bn:00085859v	Determine the number or amount of	Count, number, quantify.
+va:0380f	SORT_CLASSIFY_ARRANGE	An agent SORTS-CLASSIFIES-ARRANGES a theme for a goal from a source to a destination (+attribute)	bn:00082777v	Put into a proper or systematic order	Sort, classify, line up.
+va:0382f	CREATE_MATERIALIZE	An agent CREATES-MATERIALIZES a result with a co-agent using a material achieving a product for a beneficiary (+attribute)	bn:00086010v	Pursue a creative activity; be engaged in a creative activity	Create, design, compose.
+va:0384f	MANAGE	An agent MANAGES a theme using an instrument to achieve a goal in favour of a beneficiary	bn:00084527v	Be in charge of act on or dispose of	Be in charge of, manage, take care.
+va:0385f	DELAY	An agent DELAYS a theme for an extent from a source to a destination	bn:00086514v	Cause to be slowed down or delayed	Delay, retard, procrastinate.
+va:0387f	DIRECT_AIM_MANEUVER	An agent DIRECTS-AIMS-MANEUVERS a theme from a source to a destination for an extent using an instrument (+attribute)	bn:00082487v	Move into a desired direction of discourse	Direct, aim, point.
+va:0389f	REPEAT	An agent REPEATS a theme with a co-agent in favour of a beneficiary using an instrument (+attribute)	bn:00089731v	To say, state, or perform again	Repeat, iterate, cycle.
+va:0390f	EMCEE	An agent EMCEES a patient	bn:00085467v	Act as a master of ceremonies	Emcee, do the honors.
+va:0391f	PULL	An agent PULLS a theme from a source to a destination for an extent (+attribute)	bn:00087234v	Cause to move by pulling	Pull, tug, draw.
+va:0394f	RUN	An agent make a theme RUN with a co-theme on a location or from a source to a destination for an extent for a purpose using an instrument	bn:00093170v	Move fast by using one's feet, with one foot off the ground at any given time	Run, rush, race.
+va:0396f	AMASS	A cause makes an agent AMASS a theme in a result on a location for an asset from a source to a beneficiary using an instrument	bn:00082247v	Collect or gather	Collect, gather, amass.
+va:0397f	FACIAL-EXPRESSION	A cause makes an agent do a FACIAL EXPRESSION with a patient to a recipient	bn:00090449v	Have a certain outward or facial expression	Make a facial expression.
+va:0398f	PUNISH	A cause makes an agent PUNISH a patient for a theme with an asset	bn:00091527v	Impose a penalty on; inflict punishment on	Punish, get back, get even.
+va:0400f	EMBELLISH	An agent EMBELLISHES a destination with a theme having a result	bn:00082386v	Make more attractive by adding ornament colour etc.	Embellish, decorate, beautify.
+va:0401f	HOST_MEAL_INVITE	An agent HOSTS-GIVE A MEAL TO-INVITES a beneficiary	bn:00089484v	Be the host of or for	Invite, receive, host.
+va:0402f	GUARANTEE_ENSURE_PROMISE	An agent GUARANTEES-ENSURES-PROMISES a theme to a beneficiary using an instrument (+attribute)	bn:00082881v	Make a promise or commitment	Guarantee, assure, promise.
+va:0406f	TRANSLATE	An agent TRANSLATES a topic from a source to a destination	bn:00085683v	Make sense of; assign a meaning to	Translate, interpret, render.
+va:0407f	OFFER	An agent OFFERS an asset for a theme to a recipient	bn:00091138v	Put forward for consideration	Offer, tender.
+va:0408f	PARTICIPATE	An agent PARTICIPATES to a theme	bn:00087677v	Become a participant; be involved in	Participate, step in, intervene.
+va:0410f	COMPETE	A cause makes an agent COMPETE with a co-agent for a goal	bn:00085468v	Compete for something; engage in a contest; measure oneself against others	Compete, race, campaign.
+va:0413f	DECIDE_DETERMINE	An agent DECIDES-DETERMINES a theme on the base of a source using an instrument for a goal (+attribute)	bn:00086370v	Reach make or come to a decision about something	Determine, resolve.
+va:0414f	DOWNPLAY_HUMILIATE	A stimulus DOWNPLAYS-HUMILIATES an experiencer of an extent using an instrument	bn:00087204v	Represent as less significant or important	Belittle, minimize, downplay.
+va:0415f	PLAY_SPORT/GAME	An agent PLAYS A theme using an instrument	bn:00091708v	Participate in games or sport	Play a sport or game.
+va:0417f	SIMULATE	An agent SIMULATES a theme with an instrument	bn:00085805v	Reproduce someone's behavior or looks	Simulate, reenact, imitate.
+va:0418f	BORDER	An agent makes a theme BORDER with a co-theme	bn:00083798v	Form the boundary of; be contiguous to	Border, adjoin, neighbor.
+va:0419f	ATTACH	An agent ATTACHES a patient to a destination using an instrument (+attribute)	bn:00082893v	Cause to be attached	Stick, attach, adhere.
+va:0420f	ENCLOSE_WRAP	An agent ENCLOSES-WRAPS a theme in a co-theme	bn:00087593v	Enclose or enfold completely with or as if with a covering	Enclose, surround, wrap.
+va:0421f	FILL	An agent FILLS a destination with a theme using an instrument	bn:00088175v	Make full also in a metaphorical sense	Fill, stuff, flood.
+va:0422f	INSERT	An agent INSERTS a theme in a destination using an instrument	bn:00087594v	Introduce	Insert, inject, introduce.
+va:0423f	SCORE	An agent SCORES a theme against a co-agent	bn:00089351v	Gain points in a game	Score.
+va:0424f	AFFIRM	An agent AFFIRMS a theme to a recipient (+attribute)	bn:00082435v	To declare or affirm solemnly and formally as true	Assert, affirm, report.
+va:0425f	JUSTIFY_EXCUSE	A cause makes an agent JUSTIFY-EXCUSE a theme to a destination using an instrument (+attribute)	bn:00082678v	Defend explain clear away or make excuses for by reasoning	Justify, excuse, apologize.
+va:0426f	PARDON	An agent PARDONS a theme (+attribute)	bn:00087817v	Accept an excuse for	Pardon, absolve.
+va:0427f	SETTLE_CONCILIATE	An agent SETTLES-CONCILIATES with a co-agent on a theme (+attribute)	bn:00086716v	Settle conclusively; come to terms	Settle, compromise, conciliate.
+va:0429f	FINISH_CONCLUDE_END	An agent FINISHES-CONCLUDES-ENDS a theme using an instrument having a result on a location for an extent from a source to a beneficiary at a time	bn:00085475v	Come or bring to a finish or an end	Finish, end.
+va:0430f	INCREASE_ENLARGE_MULTIPLY	An agent INCREASES-ENLARGES-MULTIPLIES the attribute of a patient of an extent from a source to a destination using an instrument on a location in favour of a beneficiary	bn:00089667v	Make bigger or more	Expand, increase, enlarge.
+va:0431f	HURT_HARM_ACHE	An agent HURTS-HARMS-ACHES an experiencer using an instrument to achieve a goal	bn:00089533v	Give trouble or pain to	Hurt, suffer, harm.
+va:0432f	WORSEN	An agent WORSENS a patient with an instrument of an extent from a source to a goal	bn:00086389v	Grow worse	Worsen, deteriorate.
+va:0433f	AIR	An agent AIRS a patient	bn:00082420v	Expose to fresh air	Ventilate, air.
+va:0434f	COMBINE_MIX_UNITE	An agent COMBINES-MIXES-UNITES a patient and a co-patient using an instrument in a location achieving a result	bn:00082565v	To bring or combine together or with something else	Combine, unify, incorporate.
+va:0435f	AROUSE_WAKE_ENLIVEN	An agent makes a stimulus AROUSE-WAKE-ENLIVEN an experiencer with an instrument having a result from a source to a goal (+attribute)	bn:00082768v	Call forth (emotions, feelings, and responses)	Arouse, enliven.
+va:0436f	HEAT	An agent HEATS a patient using an instrument	bn:00089282v	Make hot or hotter	Heat.
+va:0437f	DIRTY	An agent DIRTIES a destination with a theme using an instrument	bn:00083350v	Make soiled, filthy, or dirty	Smear, contaminate, foul.
+va:0438f	INFLUENCE	An agent INFLUENCES a patient with a stimulus (+attribute)	bn:00082304v	Have and exert influence or effect	Influence, bias.
+va:0441f	BURN	An agent BURNS a patient using an instrument	bn:00084272v	Undergo combustion	Burn, combust, sear.
+va:0442f	COLOR	An agent COLORS a patient with a result in comparison to a co-patient	bn:00085302v	Add color to	Color, pigment.
+va:0443f	SHAPE	An agent SHAPES a patient as a result	bn:00088490v	Give shape or form to	Shape, form, twist.
+va:0444f	DRY	An agent DRIES a patient	bn:00087401v	Remove the moisture from and make dry	Dry, desiccate, dehydrate.
+va:0445f	WEAKEN	An agent WEAKENS a patient with a stimulus using an instrument  from a source to a destination state for an extent on a location	bn:00095682v	Lessen the strength of	Weaken, blunt, dampen.
+va:0446f	STRENGTHEN_MAKE-RESISTANT	An agent STRENGTHENS-MAKES RESISTANT a patient of an extent from a source state to a destination state using an instrument	bn:00083317v	Make strong or stronger	Strengthen, reinforce, harden.
+va:0448f	REST	An agent RESTS a patient	bn:00084024v	Take a short break from one's activities in order to relax	Rest, catch one's breath.
+va:0449f	LIGHTEN	An agent LIGHTENS a patient of an extent	bn:00084052v	Make lighter or brighter	Lighten, brighten.
+va:0450f	BURDEN_BEAR	An agent makes a recipient BURDEN-BEAR a theme	bn:00093225v	Load or burden; encumber	Burden, load, encumber, weigh.
+va:0451f	REPAIR_REMEDY	An agent REPAIRS-REMEDIES a patient for a beneficiary	bn:00084308v	Restore by replacing a part or putting together what is torn or broken	Repair, patch, remedy.
+va:0452f	SLEEP	An agent SLEEPS a theme at a time	bn:00084684v	Be asleep	Sleep.
+va:0453f	CAVE_CARVE	An agent CAVES-CARVES a patient using a material to have a result for a beneficiary	bn:00084607v	Engrave or cut by chipping away at a surface	Carve, engrave.
+va:0454f	COOL	An agent COOLS a patient from a source state using an instrument (+attribute)	bn:00084893v	Make cool or cooler	Freeze, cool, chill.
+va:0457f	EMPTY_UNLOAD	An agent EMPTIES-UNLOADS a theme from a source to a destination for an extent using an instrument	bn:00087578v	Make void or empty of contents	Empty, discharge, unload.
+va:0458f	CUT	An agent CUTS a patient from a source making a product using an instrument in favour of a beneficiary achieving a result	bn:00086178v	Separate with or as if with an instrument	Cut, trim, shave.
+va:0459f	STRAIGHTEN	An agent STRAIGHTENS a patient with an instrument	bn:00094410v	Make straight	Straighten, unbend, disentangle.
+va:0460f	COMMUNIZE	An agent COMMUNIZES a patient	bn:00085432v	Make something the property of the commune or community	Communize, sovietize.
+va:0461f	ENDANGER	An agent ENDANGERS a patient with an instrument	bn:00087613v	Put in a dangerous disadvantageous or difficult position	Endanger, peril, run into.
+va:0462f	COOK	An agent COOKS a patient using an instrument from a source for a beneficiary	bn:00085785v	Transform and make suitable for consumption by heating	Cook, bake.
+va:0463f	TREAT-WITH/BY	An agent TREATS a patient WITH an instrument	bn:00087163v	Treat with an agent; add (an agent) to	Treat with something (e.g. iodize, nitrify).
+va:0469f	PRESS_PUSH_FOLD	An agent PRESSES-PUSHES-FOLDS a patient using an instrument from a source state to a goal for an extent making a product	bn:00091986v	Exert pressure or force to or upon	Press, squeeze, compact.
+va:0470f	SLOW-DOWN	An agent SLOWS DOWN a patient from a source state to a destination state	bn:00086364v 	Lose velocity; move more slowly	Slow down, decelerate, retard.
+va:0472f	HANG	An agent HANGS a theme on a location	bn:00089179v	Cause to be hanging or suspended	Hang, dangle.
+va:0473f	CLOUD_SHADOW_HIDE	An agent CLOUDS-SHADOWS-HIDES a patient from a beneficiary in a location using an instrument (+attribute)	bn:00085509v	Prevent from being seen or discovered	Occult, hide, obscure.
+va:0474f	SHARPEN	An agent SHARPENS a patient using an instrument	bn:00093578v	Make sharp or sharper	Sharpen, edge.
+va:0475f	INVERT_REVERSE	An agent INVERTS-REVERSES a patient to a destination	bn:00084777v 	Change to the contrary	Invert, reverse, turn over.
+va:0477f	COMPLEXIFY	An agent COMPLEXIFIES a patient	bn:00085481v	Make complex	Complexify, hinder, ramify.
+va:0478f	PRINT	An agent PRINTS a theme on a destination for a beneficiary	bn:00089639v	Reproduce by printing	Print, impress.
+va:0479f	USE	An agent USES a patient to achieve a goal using an instrument	bn:00082948v	Take or use	Use, utilize, apply.
+va:0480f	DIP_DIVE	An agent DIPS-DIVES a patient with a co-patient  in a destination using an instrument for an extent from a source to achieve a goal in a location	bn:00086849v	Immerse briefly into a liquid so as to wet, coat, or saturate	Dip, dunk, plunge.
+va:0481f	AUTOMATIZE	An agent AUTOMATIZES a patient	bn:00082941v	Make automatic or control or operate automatically	Automatize, automate, mechanize.
+va:0482f	MESS	An agent MESSES a patient in a location using an instrument	bn:00090749v	Make a mess of or create disorder in	Mess up, ruffle, destabilize.
+va:0483f	MOUNT_ASSEMBLE_PRODUCE	An agent MOUNTS-ASSEMBLES-PRODUCES a product with a material having a result for a beneficiary (+attribute)	bn:00082845v	Create by putting components or members together	Construct, build, manufacture.
+va:0486f	OVERCOME_SURPASS	A theme OVERCOMES-SURPASSES a co-theme in an attribute of an extent	bn:00087795v	Be or do something to a greater degree	Overcome, surpass, exceed.
+va:0487f	SIMPLIFY	An agent SIMPLIFIES a patient	bn:00093755v	Make simpler or easier or reduce in complexity or extent	Simplify, facilitate, help.
+va:0490f	FLATTEN_SMOOTHEN	An agent FLATTENS-SMOOTHENS a patient using an instrument	bn:00088285v	Make flat or flatter	Flatten, even out, level.
+va:0491f	CANCEL_ELIMINATE	An agent CANCELS-ELIMINATES a patient from a source to achieve a goal using an instrument	bn:00084456v	Remove or make invisible	Cancel, delete, erase.
+va:0492f	DIM	An agent DIMS a patient	bn:00086836v	Become dim or lusterless	Dim, blur, darken.
+va:0494f	HOLE_PIERCE	An agent HOLES-PIERCES a patient using an instrument to achieve a goal having a result	bn:00089423v	Make holes in	Puncture, perforate, pierce.
+va:0496f	LOAD_PROVIDE_CHARGE_FURNISH	An agent LOADS-PROVIDES-CHARGES-FURNISHES a recipient with a theme using an instrument (+attribute)	bn:00088643v	Give something useful or necessary to	Stock, supply, provide.
+va:0497f	RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND	An agent RESTORES TO A PREVIOUS/INITIAL STATE-UNDOES-UNWINDS a patient from a source state to a destination state (+attribute)	bn:00095378v	Cancel, annul or reverse an action or its effect	Restore, revert, undo.
+va:0500f	SPEED-UP	An agent SPEEDS UP a theme of an extent from source speed to a destination speed	bn:00083190v	Spend or use time	Speed up, hasten, accelerate.
+va:0501f	LIGHT_SHINE	An agent makes a theme LIGHT-SHINE in a location (+attribute)	bn:00083216v	Emit light; be bright, as of the sun or a light	Shine, scintillate, gleam.
+va:0502f	ASSIGN-smt-to-smn	An agent ASSIGNS a result to a theme from a source	bn:00082857v	Give an assignment to (a person) to a post, or assign a task to (a person)	Assign, appoint, invest.
+va:0503f	PROMOTE	An agent PROMOTES a theme from a source position to a result position	bn:00085124v	Improve one's social status	Promote, upgrade, advance.
+va:0504f	ARRIVE	An agent ARRIVES to a destination from a source for an extent using an in instrument in a location to achieve a goal	bn:00082788v	Reach a destination; arrive by movement or progress	Come, arrive, reach a destination.
+va:0505f	LAND_GET-OFF	An agent LANDS a patient or GETS OFF in a location	bn:00088767v	Leave a vehicle, aircraft, etc.	Land, dock, get off.
+va:0506f	ENTER	An agent ENTERS a destination	bn:00085363v	To come or go into	Enter.
+va:0507f	PRONOUNCE	An agent PRONOUNCES a theme as a result	bn:00082800v	Speak pronounce or utter in a certain way	Pronounce.
+va:0508f	OFFEND_DISESTEEM	A cause makes an agent OFFEND-DISESTEEM an experiencer with a stimulus	bn:00091134v	Cause to feel resentment or indignation	Offend, discredit, shame.
+va:0509f	STAY_DWELL	An agent makes a theme STAY-DWELL in a location with a co-theme	bn:00082137v	Dwell	Settle, dwell, reside.
+va:0511f	SEEM	A theme SEEMS an attribute to an experiencer	bn:00082690v	Give a certain impression or have a certain outward aspect	Seem, look, appear.
+va:0512f	COST	A theme COSTS a value to a beneficiary	bn:00083193v	Be priced at	Cost.
+va:0514f	SWITCH-OFF_TURN-OFF_SHUT-DOWN	An agent SWITCHES OFF-TURNS OFF-SHUTS DOWN a patient using an instrument at a time	bn:00086201v	Cause to stop operating by disengaging a switch	Switch off, deactivate, shut down.
+va:0520f	CORRELATE	An agent CORRELATES a theme with a co-theme	bn:00085836v	Bring into a mutual, complementary, or reciprocal relation	Relate, associate, colligate.
+va:0521f	SEE	An experiencer SEES a stimulus in favour of a beneficiary (+attribute)	bn:00093430v	Perceive by sight or have the power to perceive by sight	Watch, see, observe.
+va:0522f	ORIENT	An agent ORIENTS a patient towards a goal	bn:00091198v	Determine one's position with reference to another point	Orient, face.
+va:0523f	LIE	An agent makes a theme LIE on a location to a destination together with a co-theme	bn:00090321v	Be located or situated somewhere; occupy a certain position	Lie, sit, rest.
+va:0524f	POPULATE	An agent POPULATES a location with a theme	bn:00091855v	Fill with inhabitants	Populate.
+va:0525f	ATTEND	An experiencer ATTENDS a stimulus	bn:00082907v	Be present at (meetings church services university) etc.	Attend, follow, be present at.
+va:0526f	EXIST_LIVE	A theme EXISTS-LIVES with a co-theme (+attribute)	bn:00083184v	Have an existence, be extant	Live, be, exist.
+va:0527f	MATCH	An agent MATCHES theme with a co-theme (+attribute)	bn:00082477v	Be compatible similar or consistent; coincide in their characteristics	Match, coincide.
+va:0532f	BLIND	An agent BLINDS a patient with a theme	bn:00083604v	Render unable to see	Blind, abacinate.
+va:0533f	FAIL_LOSE	A cause makes an agent FAILS-LOSE a theme from a source to a destination for an extent in a location with a co-agent	bn:00087967v	Be unsuccessful	Fail, lose.
+va:0534f	SEPARATE_FILTER_DETACH	An agent SEPARATES-FILTERS-DETACHES a patient from a co-patient with an instrument achieving a result for a beneficiary (+attribute)	bn:00087076v	Force, take, or pull apart	Separate, break up, disperse.
+va:0535f	BREATH_BLOW	An agent BREATHES-BLOWS a theme to a destination	bn:00084018	Draw air into, and expel out of, the lungs	Blow, puff.
+va:0537f	EXPLODE	An agent makes a patient EXPLODE using an instrument having a result	bn:00084287v	Burst outward, usually with noise	Explode, burst, detonate.
+va:0538f	TASTE	An experiencer TASTES a stimulus	bn:00094832v	Perceive by the sense of taste	Taste, savor, degust.
+va:0539f	CASTRATE	An agent CASTRATES a patient	bn:00082557	Remove the ovaries of	Castrate, neuter.
+va:0541f	ODORIZE	An agent ODORIZES a destination (+theme)	bn:00091552v	Apply perfume to	Smell, perfume, aromatize.
+va:0545f	PLAN_SCHEDULE	An agent PLANS-SCHEDULES a theme for a beneficiary at a time to achieve a goal (+attribute)	bn:00085742v	Make or work out a plan for; devise	Plan, intend, schedule.
+va:0546f	FLATTER	An agent FLATTERS a patient with a topic	bn:00083550v	Praise somewhat dishonestly	Adulate, flatter.
+va:0547f	CITE	An agent CITES a theme from a source (+attribute)	bn:00082412v	Make reference to	Cite, name, quote.
+va:0548f	INFER	An agent INFERS a theme from a source with a co-agent	bn:00086430v	Reason by deduction; establish by deduction	Infer, deduce, deduct.
+va:0550f	FEEL	An experiencer FEELS a stimulus for a destination	bn:00087864v	Undergo an emotional sensation or be in a particular state of mind	Feel.
+va:0552f	DEVELOP_AGE	A cause makes a theme AGE or DEVELOP an attribute with a material using an instrument having a product	bn:00082450v	Grow old or older	Mature, age.
+va:0553f	DRESS_WEAR	An agent DRESSES a patient or WEAR a theme	bn:00089252v	Be dressed in	Wear, dress.
+va:0554f	BEND	An agent BENDS a patient	bn:00083402v	Form a curve	Bend, flex, curve.
+va:0556f	LOSE	An agent LOSES a theme to a recipient	bn:00090485v	Fail to keep or to maintain; cease to have, either physically or in an abstract sense	Decay, disintegrate, lose.
+va:0558f	FORGET	An agent FORGETS a theme	bn:00087488v	Remove completely from recognition or memory	Forget, obliterate, unlearn.
+va:0559f	FALL_SLIDE-DOWN	An agent makes a theme FALL-SLIDE DOWN with a co-theme from a source to a destination for an extent on a location	bn:00087976v	Descend in free fall under the influence of gravity	Fall down, flop, sink.
+va:0560f	RESIGN_RETIRE	An agent RESIGNS-RETIRES from a source	bn:00090280v	Give up or retire from a position	Withdraw, retire, resign.
+va:0561f	SPOIL	A cause makes a patient SPOIL with a result	bn:00088943v	Become unfit for consumption or use	Spoil, wilt.
+va:0562f	INCLINE	An agent INCLINES a patient towards a destination	bn:00089660v	Have as a part, be made up out of	Incline, lean, tilt.
+va:0563f	WEAVE	An agent WEAVES a patient with a co-patient using a material resulting in a product	bn:00094990v	Create a piece of cloth by interlacing strands of fabric such as wool or cotton	Weave, intertwine, lace.
+va:0564f	CHANGE-APPEARANCE/STATE	An agent CHANGES THE APPEARANCE/STATE of a patient in a result of an extent from a material to a goal using an instrument	bn:00092789v	Cause to become	Change (appearance or state).
+va:0566f	DANCE	An agent DANCES with a co-agent a theme on a location	bn:00086272v	Move in a pattern; usually to musical accompaniment; do or perform a dance	Dance.
+va:0567f	UNFASTEN_UNFOLD	An agent UNFASTEN-UNFOLDS a patient using an instrument for an extent to a destination	bn:00095387v	Cause to become undone	Unfasten, loosen, unlock.
+va:0568f	REGRET_SORRY	An experiencer REGRETS is SORRY for a stimulus to a destination	bn:00092683v	Feel remorse for; feel sorry for; be contrite about	Regret, repent.
+va:0570f	METEOROLOGICAL	An agent PRODUCE A METEOROLOGICAL theme to achieve  a goal	bn:00085357v	Fall from clouds	Precipitate, come down (as rain, or snow).
+va:0571f	CATCH_EMBARK	An agent CATCHES-EMBARKS on a theme	bn:00084656v	Reach in time	Embark, catch, board.
+va:0572f	PERMEATE	An agent makes a theme PERMEATE to a destination	bn:00088196v	Pass through	Permeate, percolate, sink in.
+va:0573f	MAKE-RELAX	A stimulus MAKES an experiencer to RELAX using an instrument having a result	bn:00090481v	Cause to feel relaxed	Relax, calm.
+va:0574f	SUBJUGATE	A cause makes an agent SUBJUGATE a patient using an instrument	bn:00094522v	Make subservient; force to submit or subdue	Subordinate, subjugate, subdue.
+va:0575f	BEWITCH	An agent BEWITCHES an experiencer (+attribute)	bn:00083466v	Cast a spell over someone or something; put a hex on someone or something	Anathemize, sorcerize, cast a spell.
+va:0576f	PERCEIVE	An experiencer PERCEIVES a stimulus as attribute	bn:00085496v	To become aware of through the senses	Perceive, sense, recognize.
+va:0577f	SMELL	An experiencer SMELLS a stimulus	bn:00093929v	Inhale the odor of; perceive by the olfactory sense	Sniff, scent, nose.
+va:0578f	CAGE_IMPRISON	A cause makes an agent CAGES-IMPRISONS a theme to a destination for an extent	bn:00088673v	Lock up or confine in or as in a jail	Imprison, lock up, confine in jail.
+va:0579f	SEW	An agent SEWS a patient using an instrument from a material producing a product	bn:00093548v	Create (clothes) with cloth	Sew, crochet, quilt.
+va:0580f	JOIN_CONNECT	An agent JOINS-CONNECTS a patient with a co-patient using an instrument having a result	bn:00084107v	Cause to become joined or linked	Connect, join, link.
+va:0581f	DRIVE-BACK	An agent DRIVES BACK a theme from a source to a destination using an instrument (+attribute)	bn:00087348v	Force or drive back	Banish, deport, excommunicate.
+va:0582f	CAUSE-MENTAL-STATE	An agent CAUSES A MENTAL STATE-stimulus to an experiencer towards a theme using an instrument of an extent having a result (+attribute)	bn:00085208v	Affect	Cause (a mental state).
+va:0583f	ESTABLISH	An agent with a co-agent ESTABLISH a theme for a beneficiary	bn:00087732v	Set up or found	Establish, found, initiate.
+va:0584f	RENEW	An agent RENEWS a patient using a material for a beneficiary	bn:00092487v	Cast or model anew	Renew, reinvent, regenerate.
+va:0586f	GENERATE	An agent GENERATES a product using a patient for a beneficiary (+attribute)	bn:00088724v	Give or supply	Generate, yield, render.
+va:0587f	COPY	An agent COPIES a theme to a destination	bn:00085807v	Make a replica of	Copy, replicate, duplicate.
+va:0592f	DISLIKE	An experiencer DISLIKES a stimulus (+attribute)	bn:00086983v	Have or feel a dislike or distaste for	Loathe, abominate, dislike.
+va:0593f	DROP	An agent DROPS a patient to a destination from a source for an extent (+attribute)	bn:00087364v	Let fall to the ground	Drop, dump.
+va:0594f	FLY	An agent makes a theme FLY to a destination	bn:00088378v	Travel through the air; be airborne	Fly, levitate, fluctuate.
+va:0596f	BURY_PLANT	An agent BURIES-PLANTS a patient in a destination	bn:00084299v	Place in the earth and cover with soil	Plant, bury.
+va:0597f	WORK	An agent WORKS as attribute with a co-agent on a theme to a goal using an instrument	bn:00095812v	Exert oneself by doing mental or physical work for a purpose or out of necessity	Work, serve.
+va:0598f	MISS_OMIT_LACK	An agent MISSES-OMITS-LACKS a theme from a source using an instrument	bn:00090161v	Be without	Miss, omit, skip.
+va:0600f	EXEMPT	An agent EXEMPTS a theme from a source	bn:00087818v	Grant exemption or release to	Exempt, spare, relieve.
+va:0602f	CRITICIZE	A cause makes an agent CRITICIZES a theme (+attribute)	bn:00086046v	Find fault with; express criticism of; point out real or perceived flaws	Criticize, demur.
+va:0604f	FRUSTRATE_DISAPPOINT	An agent FRUSTRATES-DISAPPOINTS an experiencer with a stimulus using an instrument	bn:00086883v	Fail to meet the hopes or expectations of	Disappoint, fall short, let down.
+va:0605f	MOVE-BACK	An agent MOVES BACK a theme of an extent from a source to a destination on a location	bn:00087267v	Pull back or move away or backward	Move back.
+va:0607f	LEAVE-BEHIND	A source LEAVES BEHIND a theme to a goal	bn:00090276v	Depart and not take along	Leave behind, let.
+va:0608f	DISBAND_BREAK-UP	An agent DISBANDS-BREAKS UP a theme from a co-theme (+attribute)	bn:00086895v	Stop functioning or cohering as a unit	Disband, break up, part.
+va:0609f	REFLECT	An agent REFLECTS a co-agent	bn:00092636v	To throw or bend back (from a surface)	Reflect, reverberate, mirror.
+va:0611f	SATISFY_FULFILL	An agent SATISFIES-FULFILLS a theme (+attribute)	bn:00088614v	Meet the requirements or expectations of	Satisffy, fulfill, meet.
+va:0612f	LEND	An agent LENDS a theme to a recipient for an asset for an extent	bn:00090289v	Give temporarily; let have for a limited time	Rent, lease, lend.
+va:0616f	DIVIDE	An agent DIVIDES a patient for a co-patient having a result	bn:00087098v	Perform a division	Divide.
+va:0617f	BID	An agent BIDS an asset for a theme against a co-agent	bn:00082408v	Take a risk in the hope of a favorable outcome	Bid, gamble, play.
+va:0618f	TIGHTEN	An agent TIGHTENS a patient of an extent from a source to a destination	bn:00088055v	Make tight or tighter	Tighten, fasten.
+va:0619f	CAUSE-SMT	An agent CAUSES to a patient a result using an instrument	bn:00084699v	Give rise to; cause to happen or occur not always intentionally	Cause, yield, account for something.
+va:0620f	ASCRIBE	An agent ASCRIBES an attribute to a theme	bn:00082815v	Attribute or credit to	Ascribe, impute, credit.
+va:0621f	WAIT	An agent WAITS a theme for an extent in a location for a goal	bn:00095593v	Stay in one place and anticipate or expect something	Wait, hold on, stand by.
+va:0622f	DECEIVE	An agent DECEIVES a patient using an instrument for a goal (+attribute)	bn:00083460v	Cause someone to believe an untruth	Deceive, cheat.
+va:0623f	BE-LOCATED_BASE	An agent LOCATES-BASES a theme on a location	bn:00090425v	Assign a location to	Be located, base.
+va:0624f	GROUND_BASE_FOUND	An agent GROUNDS-BASES-FOUNDS a theme on a source	bn:00083141v	Use as a basis for; found on	Base, consist, lie in.
+va:0625f	MISTAKE	An agent MISTAKES a patient (+attribute)	bn:00087717v	To make a mistake or be incorrect	Commit a mistake.
+va:0626f	CORRUPT	An agent CORRUPTS a patient with a value having a result	bn:00084040v	Make illegal payments to in exchange for favors or influence	Corrupt, bribe.
+va:0627f	DISTINGUISH_DIFFER	An agent DISTINGUISHES-DIFFERS a theme from a co-theme (+attribute)	bn:00086797v	Be different	Distinguish, label.
+va:0628f	REFER	A theme REFERS to a co-theme to a recipient	bn:00083240v	Be relevant to	Refer, mean, have in mind.
+va:0629f	HAVE-A-FUNCTION_SERVE	A theme makes a value HAVE A FUNCTION-SERVE to a goal	bn:00088630v	Serve a purpose, role, or function	Serve, act as, have a function.
+va:0630f	REMAIN	An agent makes a theme REMAIN as attribute for a goal	bn:00085719v	Continue in a place position or situation	Stay, remain, stand.
+va:0631f	WELCOME	An agent WELCOMES a theme using an instrument (+attribute)	bn:00092491v	Bid welcome to; greet upon arrival	Welcome, salute, greet.
+va:0632f	AUX_MOD	_	_	_	_
+va:0633f	DERIVE	A theme DERIVES from a source	bn:00085322v	To be the product or result	Derive, descend, come from.
+va:0634f	APPLY	An agent APPLIES a theme to a patient	bn:00082711v	Avail oneself to	Be relevant, be pertinent.
+va:0635f	PRETEND	An agent PRETENDS a theme	bn:00088109v	Deceive by a mock action	Pretend, feint.
+va:1001f	AUXILIARY	_	_	_	_
+va:1002f	LIGHT-VERB	_	_	_	_
+va:1003f	DISCOURSE-FUNCTION	_	_	_	_
+va:1004f	COPULA	_	_	_	_
+va:1005f	MUST	_	_	_	_
+va:1006f	MODAL	_	_	_	_
