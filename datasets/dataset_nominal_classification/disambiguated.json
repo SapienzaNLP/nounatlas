@@ -1,0 +1,604 @@
+{
+	"nominal_definitions": {
+		"REDUCE_DIMINISH": {
+			"slump.n.01": {
+				"synset_name": "slump.n.01",
+				"lemmas": [
+					"slump",
+					"slack",
+					"drop-off",
+					"falloff",
+					"falling off"
+				],
+				"wn_definition": "a noticeable deterioration in performance or quality",
+				"frame_name": "REDUCE_DIMINISH",
+				"frame_index": 8
+			},
+			"contraction.n.04": {
+				"synset_name": "contraction.n.04",
+				"lemmas": [
+					"contraction"
+				],
+				"wn_definition": "the act of decreasing (something) in size or volume or quantity or scope",
+				"frame_name": "REDUCE_DIMINISH",
+				"frame_index": 8
+			},
+			"decrease.n.04": {
+				"synset_name": "decrease.n.04",
+				"lemmas": [
+					"decrease",
+					"diminution",
+					"reduction",
+					"step-down"
+				],
+				"wn_definition": "the act of decreasing or reducing something",
+				"frame_name": "REDUCE_DIMINISH",
+				"frame_index": 8
+			}
+		},
+		"ATTRACT_SUCK": {
+			"sucking.n.01": {
+				"synset_name": "sucking.n.01",
+				"lemmas": [
+					"sucking",
+					"suck",
+					"suction"
+				],
+				"wn_definition": "the act of sucking",
+				"frame_name": "ATTRACT_SUCK",
+				"frame_index": 227
+			}
+		},
+		"COMBINE_MIX_UNITE": {
+			"mix.n.03": {
+				"synset_name": "mix.n.03",
+				"lemmas": [
+					"mix",
+					"commixture",
+					"admixture",
+					"mixture",
+					"intermixture",
+					"mixing"
+				],
+				"wn_definition": "the act of mixing together",
+				"frame_name": "COMBINE_MIX_UNITE",
+				"frame_index": 34
+			},
+			"combination.n.07": {
+				"synset_name": "combination.n.07",
+				"lemmas": [
+					"combination",
+					"combining",
+					"compounding"
+				],
+				"wn_definition": "the act of combining things to form a new whole",
+				"frame_name": "COMBINE_MIX_UNITE",
+				"frame_index": 34
+			}
+		},
+		"REPLACE": {
+			"substitution.n.01": {
+				"synset_name": "substitution.n.01",
+				"lemmas": [
+					"substitution",
+					"permutation",
+					"transposition",
+					"replacement",
+					"switch"
+				],
+				"wn_definition": "an event in which one thing is substituted for another",
+				"frame_name": "REPLACE",
+				"frame_index": 81
+			}
+		},
+		"AROUSE_WAKE_ENLIVEN": {
+			"vivification.n.02": {
+				"synset_name": "vivification.n.02",
+				"lemmas": [
+					"vivification",
+					"invigoration",
+					"animation"
+				],
+				"wn_definition": "the activity of giving vitality and vigour to something",
+				"frame_name": "AROUSE_WAKE_ENLIVEN",
+				"frame_index": 101
+			},
+			"revival.n.01": {
+				"synset_name": "revival.n.01",
+				"lemmas": [
+					"revival",
+					"resurgence",
+					"revitalization",
+					"revitalisation",
+					"revivification"
+				],
+				"wn_definition": "bringing again into activity and prominence",
+				"frame_name": "AROUSE_WAKE_ENLIVEN",
+				"frame_index": 101
+			}
+		},
+		"STOP": {
+			"stop.n.01": {
+				"synset_name": "stop.n.01",
+				"lemmas": [
+					"stop",
+					"halt"
+				],
+				"wn_definition": "the event of something ending",
+				"frame_name": "STOP",
+				"frame_index": 23
+			},
+			"blockage.n.03": {
+				"synset_name": "blockage.n.03",
+				"lemmas": [
+					"blockage",
+					"closure",
+					"occlusion"
+				],
+				"wn_definition": "the act of blocking",
+				"frame_name": "STOP",
+				"frame_index": 23
+			}
+		},
+		"FIND": {
+			"discovery.n.03": {
+				"synset_name": "discovery.n.03",
+				"lemmas": [
+					"discovery",
+					"breakthrough",
+					"find"
+				],
+				"wn_definition": "a productive insight",
+				"frame_name": "FIND",
+				"frame_index": 91
+			},
+			"discovery.n.01": {
+				"synset_name": "discovery.n.01",
+				"lemmas": [
+					"discovery",
+					"find",
+					"uncovering"
+				],
+				"wn_definition": "the act of discovering something",
+				"frame_name": "FIND",
+				"frame_index": 91
+			},
+			"discovery.n.02": {
+				"synset_name": "discovery.n.02",
+				"lemmas": [
+					"discovery"
+				],
+				"wn_definition": "something that is discovered",
+				"frame_name": "FIND",
+				"frame_index": 91
+			}
+		},
+		"FLY": {
+			"flight.n.02": {
+				"synset_name": "flight.n.02",
+				"lemmas": [
+					"flight",
+					"flying"
+				],
+				"wn_definition": "an instance of traveling by air",
+				"frame_name": "FLY",
+				"frame_index": 242
+			}
+		},
+		"HIT": {
+			"knock.n.03": {
+				"synset_name": "knock.n.03",
+				"lemmas": [
+					"knock",
+					"bash",
+					"bang",
+					"smash",
+					"belt"
+				],
+				"wn_definition": "a vigorous blow",
+				"frame_name": "HIT",
+				"frame_index": 263
+			},
+			"hit.n.02": {
+				"synset_name": "hit.n.02",
+				"lemmas": [
+					"hit",
+					"hitting",
+					"striking"
+				],
+				"wn_definition": "the act of contacting one thing with another",
+				"frame_name": "HIT",
+				"frame_index": 263
+			},
+			"rap.n.02": {
+				"synset_name": "rap.n.02",
+				"lemmas": [
+					"rap",
+					"strike",
+					"tap"
+				],
+				"wn_definition": "a gentle blow",
+				"frame_name": "HIT",
+				"frame_index": 263
+			},
+			"knock.n.05": {
+				"synset_name": "knock.n.05",
+				"lemmas": [
+					"knock",
+					"belt",
+					"rap",
+					"whack",
+					"whang"
+				],
+				"wn_definition": "the act of hitting vigorously",
+				"frame_name": "HIT",
+				"frame_index": 263
+			}
+		},
+		"MOVE-ONESELF": {
+			"flap.n.03": {
+				"synset_name": "flap.n.03",
+				"lemmas": [
+					"flap",
+					"flapping",
+					"flutter",
+					"fluttering"
+				],
+				"wn_definition": "the motion made by flapping up and down",
+				"frame_name": "MOVE-ONESELF",
+				"frame_index": 154
+			}
+		},
+		"BEGIN": {
+			"beginning.n.05": {
+				"synset_name": "beginning.n.05",
+				"lemmas": [
+					"beginning",
+					"start",
+					"commencement"
+				],
+				"wn_definition": "the act of starting something",
+				"frame_name": "BEGIN",
+				"frame_index": 128
+			},
+			"start.n.01": {
+				"synset_name": "start.n.01",
+				"lemmas": [
+					"start"
+				],
+				"wn_definition": "the beginning of anything",
+				"frame_name": "BEGIN",
+				"frame_index": 128
+			}
+		},
+		"SHAPE": {
+			"deformation.n.02": {
+				"synset_name": "deformation.n.02",
+				"lemmas": [
+					"deformation"
+				],
+				"wn_definition": "alteration in the shape or dimensions of an object as a result of the application of stress to it",
+				"frame_name": "SHAPE",
+				"frame_index": 189
+			}
+		},
+		"TURN_CHANGE-DIRECTION": {
+			"diversion.n.02": {
+				"synset_name": "diversion.n.02",
+				"lemmas": [
+					"diversion",
+					"deviation",
+					"digression",
+					"deflection",
+					"deflexion",
+					"divagation"
+				],
+				"wn_definition": "a turning aside (of your course or attention or concern)",
+				"frame_name": "TURN_CHANGE-DIRECTION",
+				"frame_index": 13
+			}
+		},
+		"BREATH_BLOW": {
+			"blow.n.07": {
+				"synset_name": "blow.n.07",
+				"lemmas": [
+					"blow",
+					"puff"
+				],
+				"wn_definition": "forceful exhalation through the nose or mouth",
+				"frame_name": "BREATH_BLOW",
+				"frame_index": 233
+			}
+		},
+		"MAKE-A-SOUND": {
+			"boom.n.01": {
+				"synset_name": "boom.n.01",
+				"lemmas": [
+					"boom",
+					"roar",
+					"roaring",
+					"thunder"
+				],
+				"wn_definition": "a deep prolonged loud noise",
+				"frame_name": "MAKE-A-SOUND",
+				"frame_index": 253
+			}
+		},
+		"TOUCH": {
+			"caressing.n.01": {
+				"synset_name": "caressing.n.01",
+				"lemmas": [
+					"caressing",
+					"cuddling",
+					"fondling",
+					"hugging",
+					"kissing",
+					"necking",
+					"petting",
+					"smooching",
+					"snuggling"
+				],
+				"wn_definition": "affectionate play (or foreplay without contact with the genital organs)",
+				"frame_name": "TOUCH",
+				"frame_index": 348
+			}
+		},
+		"LOAD_PROVIDE_CHARGE_FURNISH": {
+			"provision.n.02": {
+				"synset_name": "provision.n.02",
+				"lemmas": [
+					"provision",
+					"supply",
+					"supplying"
+				],
+				"wn_definition": "the activity of supplying or providing something",
+				"frame_name": "LOAD_PROVIDE_CHARGE_FURNISH",
+				"frame_index": 60
+			}
+		},
+		"JOIN_CONNECT": {
+			"joining.n.01": {
+				"synset_name": "joining.n.01",
+				"lemmas": [
+					"joining",
+					"connection",
+					"connexion"
+				],
+				"wn_definition": "the act of bringing two things into contact (especially for communication)",
+				"frame_name": "JOIN_CONNECT",
+				"frame_index": 185
+			}
+		},
+		"THINK": {
+			"think.n.01": {
+				"synset_name": "think.n.01",
+				"lemmas": [
+					"think"
+				],
+				"wn_definition": "an instance of deliberate thinking",
+				"frame_name": "THINK",
+				"frame_index": 27
+			}
+		},
+		"CATCH": {
+			"catch.n.09": {
+				"synset_name": "catch.n.09",
+				"lemmas": [
+					"catch",
+					"grab",
+					"snatch",
+					"snap"
+				],
+				"wn_definition": "the act of catching an object with the hands",
+				"frame_name": "CATCH",
+				"frame_index": 269
+			}
+		},
+		"SEE": {
+			"watch.n.03": {
+				"synset_name": "watch.n.03",
+				"lemmas": [
+					"watch",
+					"vigil"
+				],
+				"wn_definition": "a purposeful surveillance to guard or observe",
+				"frame_name": "SEE",
+				"frame_index": 315
+			}
+		},
+		"CHANGE-APPEARANCE/STATE": {
+			"curdling.n.01": {
+				"synset_name": "curdling.n.01",
+				"lemmas": [
+					"curdling",
+					"clotting",
+					"coagulation"
+				],
+				"wn_definition": "the process of forming semisolid lumps in a liquid",
+				"frame_name": "CHANGE-APPEARANCE/STATE",
+				"frame_index": 90
+			},
+			"hardening.n.02": {
+				"synset_name": "hardening.n.02",
+				"lemmas": [
+					"hardening",
+					"solidifying",
+					"solidification",
+					"set",
+					"curing"
+				],
+				"wn_definition": "the process of becoming hard or solid by cooling or drying or crystallization",
+				"frame_name": "CHANGE-APPEARANCE/STATE",
+				"frame_index": 90
+			}
+		},
+		"WASH_CLEAN": {
+			"cleaning.n.01": {
+				"synset_name": "cleaning.n.01",
+				"lemmas": [
+					"cleaning",
+					"cleansing",
+					"cleanup"
+				],
+				"wn_definition": "the act of making something clean",
+				"frame_name": "WASH_CLEAN",
+				"frame_index": 292
+			},
+			"wash.n.02": {
+				"synset_name": "wash.n.02",
+				"lemmas": [
+					"wash",
+					"washing",
+					"lavation"
+				],
+				"wn_definition": "the work of cleansing (usually with soap and water)",
+				"frame_name": "WASH_CLEAN",
+				"frame_index": 292
+			}
+		},
+		"FINISH_CONCLUDE_END": {
+			"completion.n.02": {
+				"synset_name": "completion.n.02",
+				"lemmas": [
+					"completion",
+					"culmination",
+					"closing",
+					"windup",
+					"mop up"
+				],
+				"wn_definition": "a concluding action",
+				"frame_name": "FINISH_CONCLUDE_END",
+				"frame_index": 116
+			}
+		},
+		"PAY": {
+			"recompense.n.02": {
+				"synset_name": "recompense.n.02",
+				"lemmas": [
+					"recompense",
+					"compensation"
+				],
+				"wn_definition": "the act of compensating for service or loss or injury",
+				"frame_name": "PAY",
+				"frame_index": 49
+			}
+		},
+		"SLOW-DOWN": {
+			"slowdown.n.01": {
+				"synset_name": "slowdown.n.01",
+				"lemmas": [
+					"slowdown",
+					"lag",
+					"retardation"
+				],
+				"wn_definition": "the act of slowing down or falling behind",
+				"frame_name": "SLOW-DOWN",
+				"frame_index": 340
+			}
+		},
+		"SELL": {
+			"selling.n.01": {
+				"synset_name": "selling.n.01",
+				"lemmas": [
+					"selling",
+					"merchandising",
+					"marketing"
+				],
+				"wn_definition": "the exchange of goods for an agreed sum of money",
+				"frame_name": "SELL",
+				"frame_index": 247
+			}
+		},
+		"PUT_APPLY_PLACE_PAVE": {
+			"placement.n.03": {
+				"synset_name": "placement.n.03",
+				"lemmas": [
+					"placement",
+					"location",
+					"locating",
+					"position",
+					"positioning",
+					"emplacement"
+				],
+				"wn_definition": "the act of putting something in a certain place",
+				"frame_name": "PUT_APPLY_PLACE_PAVE",
+				"frame_index": 111
+			}
+		},
+		"DIP_DIVE": {
+			"submersion.n.02": {
+				"synset_name": "submersion.n.02",
+				"lemmas": [
+					"submersion",
+					"immersion",
+					"ducking",
+					"dousing"
+				],
+				"wn_definition": "the act of wetting something by submerging it",
+				"frame_name": "DIP_DIVE",
+				"frame_index": 266
+			}
+		},
+		"REPEAT": {
+			"repeat.n.01": {
+				"synset_name": "repeat.n.01",
+				"lemmas": [
+					"repeat",
+					"repetition"
+				],
+				"wn_definition": "an event that repeats",
+				"frame_name": "REPEAT",
+				"frame_index": 204
+			}
+		},
+		"MOVE-BY-MEANS-OF": {
+			"drive.n.08": {
+				"synset_name": "drive.n.08",
+				"lemmas": [
+					"drive",
+					"ride"
+				],
+				"wn_definition": "a journey in a vehicle (usually an automobile)",
+				"frame_name": "MOVE-BY-MEANS-OF",
+				"frame_index": 218
+			}
+		},
+		"FALL_SLIDE-DOWN": {
+			"spill.n.04": {
+				"synset_name": "spill.n.04",
+				"lemmas": [
+					"spill",
+					"tumble",
+					"fall"
+				],
+				"wn_definition": "a sudden drop from an upright position",
+				"frame_name": "FALL_SLIDE-DOWN",
+				"frame_index": 28
+			}
+		},
+		"PERMEATE": {
+			"percolation.n.01": {
+				"synset_name": "percolation.n.01",
+				"lemmas": [
+					"percolation",
+					"infiltration"
+				],
+				"wn_definition": "the slow passage of a liquid through a filtering medium",
+				"frame_name": "PERMEATE",
+				"frame_index": 417
+			}
+		},
+		"PULL": {
+			"tug.n.01": {
+				"synset_name": "tug.n.01",
+				"lemmas": [
+					"tug",
+					"jerk"
+				],
+				"wn_definition": "a sudden abrupt pull",
+				"frame_name": "PULL",
+				"frame_index": 351
+			}
+		}
+	}
+}
