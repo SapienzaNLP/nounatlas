@@ -6,7 +6,7 @@ This repository contains the code for the paper **[NounAtlas: Filling the Gap in
 
 The final model will be usable for nominal SRL through [InVeRo by Sapienza NLP](https://nlp.uniroma1.it/invero/).
 
-## Reproducing the Research Results
+## Reproducing the paper results
 
 This section provides instructions to reproduce the experiments and results described in the paper. Each section corresponds to a specific paragraph in the paper, refer to it for further details.
 
@@ -34,13 +34,13 @@ python code_files_nominal_classification/data_preprocessing/build_datasets.py
 
 **Ranking frames for unlinked synsets**
 
-1. **Train the Cross-Encoder model**: Train the Cross-Encoder model for the binary classification task using the following command:
+1. **Train the Cross-Encoder model**: Train the Cross-Encoder model for the verbal to nominal definition grouping task (Section 3.1.3) using the following command:
 
 ```bash
 python code_files_nominal_classification/crossencoder_main.py --pipeline_phase train
 ```
 
-2. **Evaluate the model**: Evaluate the model's performance on the binary classification task:
+2. **Evaluate the model**: Evaluate the model's performance:
 
 ```bash
 python code_files_nominal_classification/crossencoder_main.py --pipeline_phase test --version_name version_0
@@ -48,7 +48,7 @@ python code_files_nominal_classification/crossencoder_main.py --pipeline_phase t
 
 Replace "version_0" with the version you want to evaluate in the *_[checkpoints_nominal_classification/CrossEncoderClassifier/lightning_logs](/checkpoints_nominal_classification/CrossEncoderClassifier/lightning_logs)_* folder.
 
-3. **Evaluate top-k accuracy**: Evaluate the model's performance on the top-k frame predictions task:
+3. **Evaluate top-k accuracy**: Evaluate the model's performance on the top-k frame predictions task (Section 3.1.3):
 
 ```bash
 python code_files_nominal_classification/crossencoder_main.py --pipeline_phase predict_test --version_name version_0
@@ -90,10 +90,10 @@ python code_files_nominal_classification/manual_classification/generate_file_for
 
 **Predicate Nominalization**
 
-1. **Generate data with LLM**: To generate the nominalized sentences is possible to use a Large Language Model (LLM) from one of these three providers:
-    - OpenAI (set the OPENAI_KEY environement variable in the .env file)
-    - Google AI Studio (set the GOOGLE_KEY environement variable in the .env file)
-    - Fireworks AI (set the FIREWORKS_KEY environement variable in the .env file)
+1. **Generate data with LLM**: To generate the nominalized sentences, you can select an LLM from one of the following three providers:
+    - OpenAI (set the OPENAI_KEY environment variable in the .env file)
+    - Google AI Studio (set the GOOGLE_KEY environment variable in the .env file)
+    - Fireworks AI (set the FIREWORKS_KEY environment variable in the .env file)
     Google's Gemini-Pro is the model used in the paper and selected by default.
 
 ```bash
@@ -104,7 +104,7 @@ Alternatively, you can skip this step by downloading our already processed data:
 
 **Verbal-to-Nominal Role Propagation**
 
-1. **Run the mapping scripts**: Execute the following commands to perform verbal-to-nominal role propagation:
+1. **Run the mapping scripts**: Execute the following commands to perform verbal-to-nominal role propagation (Section 4.3):
 
 ```bash
 python code_files_nominal_srl/data_mapping/sentence_mapping_rule.py
@@ -117,7 +117,7 @@ or you can skip this part by extracting our already processed files:
 
 which are located in: *[outputs_nominal_srl/mapped_infos/](/outputs_nominal_srl/mapped_infos/)*
 
-2. **Create final SRL dataset**: Generate the dataset to train an SRL model using the following command: 
+2. **Create the final SRL dataset**: Generate the dataset to train an SRL model using the following command: 
 
 ```bash
 python code_files_nominal_srl/datasets_smart_splitting.py
