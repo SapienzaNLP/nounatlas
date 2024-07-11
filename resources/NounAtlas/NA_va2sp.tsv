@@ -1,0 +1,569 @@
+na:0001f	C	Agent	va:0081p|va:0103p	Theme	va:0002p|va:0051p	Beneficiary	va:0037p	Attribute	va:0037p
+na:0002f	C	Agent	va:0081p	Theme	va:0081p
+na:0002f	A	Agent	va:0081p	Theme	va:0002p
+na:0003f	C	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0084p	Destination	va:0037p	Source	va:0037p	Instrument	va:0037p	Attribute	va:0037p	Beneficiary	va:0037p
+na:0004f	C	Agent	va:0084p	Theme	va:0062p|va:0061p|va:0047p	Source	va:0084p	Instrument	va:0037p
+na:0005f	C	Cause	va:0037p	Agent	va:0081p	Topic	va:0057p|va:0005p	Source	va:0037p	Attribute	va:0037p
+na:0008f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p	Goal	va:0002p
+na:0009f	C	Agent	va:0081p|va:0103p	Topic	va:0106p|va:0026p	Recipient	va:0081p|va:0103p	Attribute	va:0002p	Result	va:0037p	Instrument	va:0037p	Location	va:0037p
+na:0010f	C	Agent	va:0081p	Theme	va:0084p	Source	va:0037p	Asset	va:0084p	Beneficiary	va:0037p
+na:0011f	C	Agent	va:0081p|va:0103p	Beneficiary	va:0081p|va:0009p	Theme	va:0086p|va:0103p	Purpose	va:0037p	Idiom	va:0037p
+na:0011f	A	Agent	va:0081p|va:0103p|va:0002p	Beneficiary	va:0081p|va:0002p	Theme	va:0086p|va:0103p	Purpose	va:0037p	Idiom	va:0037p
+na:0012f	C	Agent	va:0007p|va:0103p|va:0084p	Theme	va:0084p|va:0117p	Beneficiary	va:0037p	Attribute	va:0037p	Purpose	va:0037p	Cause	va:0037p	Source	va:0037p	Destination	va:0037p	Location	va:0037p
+na:0012f	A	Agent	va:0007p|va:0103p	Theme	va:0117p|va:0019p	Beneficiary	va:0037p	Attribute	va:0037p	Purpose	va:0037p	Cause	va:0037p	Source	va:0037p	Destination	va:0037p	Location	va:0037p
+na:0014f	C	Agent	va:0081p|va:0103p	Theme	va:0037p	Beneficiary	va:0037p	Instrument	va:0037p	Attribute	va:0037p
+na:0014f	A	Agent	va:0081p|va:0103p|va:0074p	Theme	va:0072p|va:0089p|va:0082p	Beneficiary	va:0037p	Instrument	va:0037p	Attribute	va:0037p
+na:0015f	C	Agent	va:0081p|va:0103p	Goal	va:0002p
+na:0016f	C	Agent	va:0084p	Patient	va:0084p	Result	va:0084p	Instrument	va:0037p	Source	va:0084p
+na:0016f	A	Agent	va:0002p	Patient	va:0002p	Result	va:0002p	Instrument	va:0037p	Source	va:0084p
+na:0017f	C	Agent	va:0081p	Attribute	va:0002p	Recipient	va:0037p	Cause	va:0037p
+na:0018f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0007p	Instrument	va:0037p	Result	va:0037p	Attribute	va:0037p
+na:0018f	A	Agent	va:0002p	Patient	va:0081p|va:0007p	Instrument	va:0037p	Result	va:0037p	Attribute	va:0037p
+na:0021f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0084p	Value	va:0002p	Cause	va:0037p
+na:0021f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Value	va:0002p	Cause	va:0037p
+na:0022f	C	Agent	va:0081p|va:0103p	Beneficiary	va:0081p|va:0103p|va:0014p	Instrument	va:0037p	Goal	va:0037p	Attribute	va:0037p
+na:0024f	C	Agent	va:0081p|va:0097p	Theme	va:0026p|va:0057p	Recipient	va:0081p|va:0103p	Instrument	va:0037p	Attribute	va:0037p
+na:0024f	A	Agent	va:0081p|va:0097p	Theme	va:0002p	Recipient	va:0081p|va:0103p	Instrument	va:0037p	Attribute	va:0037p
+na:0025f	C	Agent	va:0081p	Theme	va:0002p	Co-Agent	va:0081p	Attribute	va:0002p	Source	va:0037p	Destination	va:0037p
+na:0029f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Instrument	va:0084p	Attribute	va:0037p	Topic	va:0037p	Location	va:0037p	Extent	va:0037p	Source	va:0037p	Goal	va:0037p
+na:0029f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Instrument	va:0037p	Attribute	va:0037p	Topic	va:0037p	Location	va:0037p	Extent	va:0037p	Source	va:0037p	Goal	va:0037p
+na:0030f	C	Theme	va:0081p	Location	va:0084p|va:0083p	Agent	va:0037p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p	Attribute	va:0037p	Patient	va:0037p	Result	va:0037p
+na:0032f	C	Agent	va:0081p	Theme	va:0084p	Beneficiary	va:0037p	Goal	va:0037p	Source	va:0037p	Cause	va:0037p	Co-Theme	va:0037p
+na:0032f	A	Agent	va:0002p	Theme	va:0002p	Beneficiary	va:0037p	Goal	va:0037p	Source	va:0037p	Cause	va:0037p	Co-Theme	va:0037p
+na:0033f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Location	va:0037p	Attribute	va:0037p	Instrument	va:0037p	Goal	va:0037p	Beneficiary	va:0037p
+na:0033f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Location	va:0037p	Attribute	va:0037p	Instrument	va:0037p	Goal	va:0037p	Beneficiary	va:0037p
+na:0034f	C	Cause	va:0037p	Theme	va:0062p|va:0047p|va:0017p	Source	va:0037p	Destination	va:0037p
+na:0035f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Attribute	va:0002p	Instrument	va:0037p
+na:0038f	C	Agent	va:0081p|va:0007p|va:0087p	Patient	va:0081p|va:0007p|va:0087p	Attribute	va:0037p
+na:0039f	C	Location	va:0084p	Value	va:0084p	Beneficiary	va:0037p
+na:0040f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Beneficiary	va:0037p	Attribute	va:0037p
+na:0040f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Beneficiary	va:0037p	Attribute	va:0037p
+na:0044f	C	Stimulus	va:0037p	Experiencer	va:0007p	Instrument	va:0037p
+na:0045f	C	Agent	va:0081p|va:0103p	Theme	va:0081p	Attribute	va:0037p
+na:0045f	A	Agent	va:0081p|va:0103p	Theme	va:0026p|va:0014p	Attribute	va:0037p
+na:0046f	C	Agent	va:0002p	Theme	va:0037p	Source	va:0037p	Instrument	va:0037p	Attribute	va:0037p	Goal	va:0037p
+na:0046f	A	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0002p	Source	va:0037p	Instrument	va:0037p	Attribute	va:0037p	Goal	va:0037p
+na:0048f	C	Agent	va:0081p|va:0007p	Patient	va:0062p	Source	va:0037p
+na:0049f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Goal	va:0037p
+na:0050f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p	Goal	va:0002p	Cause	va:0037p	Attribute	va:0037p	Source	va:0037p	Instrument	va:0037p
+na:0050f	A	Agent	va:0002p	Patient	va:0081p|va:0103p	Goal	va:0002p	Cause	va:0037p	Attribute	va:0037p	Source	va:0037p	Instrument	va:0037p
+na:0051f	C	Agent	va:0081p|va:0007p	Patient	va:0045p
+na:0052f	C	Agent	va:0037p	Theme	va:0084p	Goal	va:0084p	Purpose	va:0037p
+na:0052f	A	Agent	va:0037p	Theme	va:0002p	Goal	va:0037p	Purpose	va:0037p
+na:0053f	C	Agent	va:0037p	Patient	va:0084p	Location	va:0037p	Extent	va:0037p	Destination	va:0037p
+na:0054f	C	Theme	va:0081p|va:0007p	Patient	va:0084p	Source	va:0037p	Destination	va:0037p	Cause	va:0037p	Extent	va:0037p
+na:0056f	C	Agent	va:0081p|va:0007p	Theme	va:0084p	Attribute	va:0037p	Location	va:0037p
+na:0057f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Beneficiary	va:0081p|va:0103p	Attribute	va:0037p
+na:0057f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Beneficiary	va:0081p|va:0103p	Attribute	va:0037p
+na:0058f	C	Agent	va:0081p	Patient	va:0084p	Instrument	va:0084p	Result	va:0037p	Attribute	va:0037p
+na:0059f	C	Source	va:0083p	Theme	va:0047p|va:0061p|va:0049p|va:0093p|va:0079p|va:0043p|va:0118p	Destination	va:0037p	Attribute	va:0037p	Extent	va:0037p
+na:0060f	C	Agent	va:0081p|va:0007p	Theme	va:0084p	Destination	va:0037p	Source	va:0037p	Attribute	va:0037p	Beneficiary	va:0037p
+na:0060f	A	Agent	va:0081p|va:0007p	Theme	va:0002p	Destination	va:0037p	Source	va:0037p	Attribute	va:0037p	Beneficiary	va:0037p
+na:0061f	C	Theme	va:0084p	Source	va:0037p	Destination	va:0037p	Agent	va:0037p
+na:0062f	C	Agent	va:0081p|va:0103p|va:0034p	Instrument	va:0084p	Patient	va:0063p	Location	va:0037p	Attribute	va:0037p
+na:0064f	C	Agent	va:0081p|va:0103p|va:0033p	Theme	va:0084p	Value	va:0065p|va:0117p|va:0078p	Co-Theme	va:0037p	Cause	va:0037p	Goal	va:0037p
+na:0064f	A	Agent	va:0081p|va:0103p|va:0033p	Theme	va:0002p	Value	va:0065p|va:0117p|va:0078p	Co-Theme	va:0037p	Cause	va:0037p	Goal	va:0037p
+na:0065f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p|va:0009p	Result	va:0037p	Attribute	va:0037p
+na:0066f	C	Agent	va:0081p|va:0103p|va:0041p	Patient	va:0081p|va:0103p|va:0041p	Topic	va:0037p	Recipient	va:0037p
+na:0067f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p	Location	va:0037p	Beneficiary	va:0037p	Cause	va:0037p	Goal	va:0037p
+na:0068f	C	Agent	va:0081p|va:0103p	Location	va:0081p|va:0103p|va:0064p|va:0009p	Extent	va:0037p	Source	va:0037p
+na:0069f	C	Agent	va:0081p	Theme	va:0053p|va:0026p	Recipient	va:0037p	Topic	va:0037p
+na:0071f	C	Agent	va:0081p|va:0103p	Experiencer	va:0081p|va:0103p|va:0007p	Instrument	va:0084p	Goal	va:0037p	Source	va:0037p
+na:0071f	A	Agent	va:0081p|va:0103p	Experiencer	va:0081p|va:0103p|va:0007p	Instrument	va:0002p	Goal	va:0037p	Source	va:0037p
+na:0072f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p|va:0007p	Attribute	va:0002p
+na:0074f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p	Goal	va:0037p
+na:0076f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Attribute	va:0037p	Recipient	va:0037p
+na:0076f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p	Recipient	va:0037p
+na:0077f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Source	va:0037p
+na:0077f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Source	va:0037p
+na:0078f	C	Agent	va:0081p|va:0103p	Theme	va:0081p	Source	va:0037p
+na:0079f	C	Agent	va:0081p|va:0007p	Theme	va:0084p	Source	va:0037p	Beneficiary	va:0037p	Attribute	va:0037p	Location	va:0037p
+na:0080f	C	Cause	va:0002p	Topic	va:0002p	Recipient	va:0037p
+na:0081f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Theme	va:0002p	Co-Agent	va:0037p	Beneficiary	va:0037p	Asset	va:0037p
+na:0081f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Theme	va:0002p	Co-Agent	va:0037p	Beneficiary	va:0037p	Asset	va:0037p
+na:0082f	C	Agent	va:0081p	Patient	va:0002p|va:0083p	Goal	va:0002p|va:0083p	Instrument	va:0037p	Attribute	va:0037p
+na:0083f	C	Agent	va:0081p|va:0103p	Destination	va:0084p	Theme	va:0084p|va:0026p
+na:0086f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p	Result	va:0002p
+na:0086f	A	Agent	va:0002p	Patient	va:0081p|va:0103p	Result	va:0002p
+na:0089f	C	Agent	va:0081p|va:0103p	Patient	va:0087p|va:0104p|va:0044p	Instrument	va:0009p	Location	va:0037p
+na:0091f	C	Agent	va:0081p	Patient	va:0084p	Instrument	va:0084p	Goal	va:0002p	Source	va:0037p	Purpose	va:0037p	Product	va:0037p
+na:0091f	A	Agent	va:0081p	Patient	va:0002p	Instrument	va:0084p	Goal	va:0002p	Source	va:0037p	Purpose	va:0037p	Product	va:0037p
+na:0092f	C	Agent	va:0084p	Instrument	va:0084p	Patient	va:0084p	Attribute	va:0037p	Result	va:0037p
+na:0093f	C	Experiencer	va:0081p|va:0103p	Stimulus	va:0026p|va:0052p|va:0051p	Attribute	va:0037p
+na:0093f	A	Experiencer	va:0081p|va:0103p	Stimulus	va:0002p	Attribute	va:0037p
+na:0094f	C	Experiencer	va:0081p|va:0103p|va:0007p	Stimulus	va:0037p	Source	va:0037p
+na:0096f	C	Agent	va:0081p|va:0103p	Theme	va:0037p	Attribute	va:0037p
+na:0097f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Source	va:0081p|va:0103p	Asset	va:0037p	Goal	va:0037p	Extent	va:0037p
+na:0099f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Goal	va:0002p	Source	va:0037p	Attribute	va:0037p	Cause	va:0037p
+na:0099f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Goal	va:0002p	Source	va:0037p	Attribute	va:0037p	Cause	va:0037p
+na:0101f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Attribute	va:0002p	Beneficiary	va:0037p	Instrument	va:0002p	Location	va:0037p
+na:0101f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0002p	Beneficiary	va:0037p	Instrument	va:0002p	Location	va:0037p
+na:0103f	C	Agent	va:0084p|va:0083p	Theme	va:0037p	Goal	va:0002p	Instrument	va:0037p	Co-Agent	va:0037p	Attribute	va:0037p
+na:0103f	A	Agent	va:0002p	Theme	va:0037p	Goal	va:0002p	Instrument	va:0037p	Co-Agent	va:0037p	Attribute	va:0037p
+na:0104f	C	Theme	va:0084p	Attribute	va:0002p	Cause	va:0037p	Goal	va:0037p	Value	va:0037p
+na:0104f	A	Theme	va:0002p	Attribute	va:0002p	Cause	va:0037p	Goal	va:0037p	Value	va:0037p
+na:0105f	C	Agent	va:0084p|va:0081p|va:0103p	Source	va:0037p
+na:0105f	A	Agent	va:0002p	Source	va:0037p
+na:0111f	C	Agent	va:0037p	Theme	va:0002p	Co-Theme	va:0037p	Experiencer	va:0037p	Location	va:0037p	Attribute	va:0037p
+na:0112f	C	Theme	va:0084p	Co-Theme	va:0084p	Agent	va:0037p	Attribute	va:0037p
+na:0112f	A	Theme	va:0002p	Co-Theme	va:0002p	Agent	va:0037p	Attribute	va:0037p
+na:0113f	C	Agent	va:0081p|va:0103p	Patient	va:0033p|va:0119p
+na:0114f	C	Agent	va:0084p|va:0083p	Theme	va:0037p	Destination	va:0037p	Co-Agent	va:0037p	Attribute	va:0037p	Instrument	va:0037p	Source	va:0037p
+na:0114f	A	Agent	va:0002p	Theme	va:0037p	Destination	va:0037p	Co-Agent	va:0037p	Attribute	va:0037p	Instrument	va:0037p	Source	va:0037p
+na:0119f	C	Cause	va:0037p	Theme	va:0081p|va:0103p|va:0007p|va:0068p	Source	va:0037p	Destination	va:0037p	Attribute	va:0037p	Time	va:0037p	Idiom	va:0037p
+na:0121f	C	Agent	va:0081p|va:0103p	Attribute	va:0099p|va:0092p|va:0096p|va:0020p	Theme	va:0081p|va:0103p
+na:0122f	C	Agent	va:0081p|va:0103p	Theme	va:0053p|va:0026p	Source	va:0081p|va:0103p|va:0009p	Recipient	va:0081p|va:0103p|va:0009p	Instrument	va:0009p
+na:0124f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0002p	Cause	va:0037p
+na:0124f	A	Agent	va:0081p|va:0103p	Theme	va:0081p	Attribute	va:0002p	Cause	va:0037p
+na:0125f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p|va:0009p	Instrument	va:0037p	Beneficiary	va:0037p	Attribute	va:0037p
+na:0125f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Instrument	va:0037p	Beneficiary	va:0037p	Attribute	va:0037p
+na:0126f	C	Cause	va:0037p	Patient	va:0084p	Goal	va:0002p	Instrument	va:0037p
+na:0126f	A	Cause	va:0037p	Patient	va:0002p	Goal	va:0002p	Instrument	va:0037p
+na:0128f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Theme	va:0037p
+na:0128f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Theme	va:0037p
+na:0129f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Asset	va:0037p	Recipient	va:0081p|va:0103p
+na:0130f	C	Agent	va:0081p|va:0103p	Result	va:0037p	Theme	va:0084p	Topic	va:0037p	Recipient	va:0081p|va:0103p	Attribute	va:0037p
+na:0131f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p
+na:0133f	C	Agent	va:0081p|va:0103p	Patient	va:0002p	Goal	va:0037p
+na:0134f	C	Agent	va:0083p|va:0103p	Patient	va:0084p	Instrument	va:0084p	Result	va:0037p
+na:0134f	A	Agent	va:0002p	Patient	va:0002p	Instrument	va:0002p	Result	va:0037p
+na:0135f	C	Agent	va:0081p|va:0103p	Patient	va:0037p	Source	va:0037p	Goal	va:0037p	Instrument	va:0037p	Beneficiary	va:0037p
+na:0137f	C	Agent	va:0081p|va:0103p|va:0007p	Source	va:0083p	Destination	va:0083p	Extent	va:0037p	Instrument	va:0037p	Location	va:0037p	Cause	va:0037p	Goal	va:0037p
+na:0138f	C	Patient	va:0063p	Theme	va:0035p|va:0080p	Source	va:0063p	Agent	va:0037p
+na:0139f	C	Agent	va:0003p|va:0094p|va:0006p|va:0051p|va:0103p|va:0007p	Patient	va:0084p	Instrument	va:0037p	Source	va:0037p
+na:0139f	A	Agent	va:0085p	Patient	va:0084p	Instrument	va:0037p	Source	va:0037p
+na:0140f	C	Agent	va:0081p|va:0103p	Theme	va:0037p	Topic	va:0037p	Recipient	va:0037p
+na:0141f	C	Agent	va:0084p|va:0083p	Patient	va:0084p|va:0083p	Instrument	va:0084p|va:0083p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0142f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Instrument	va:0062p
+na:0143f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Co-Agent	va:0037p	Topic	va:0037p
+na:0143f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Co-Agent	va:0037p	Topic	va:0037p
+na:0145f	C	Experiencer	va:0084p|va:0083p	Stimulus	va:0084p|va:0083p	Goal	va:0037p
+na:0145f	A	Experiencer	va:0084p|va:0083p	Stimulus	va:0002p	Goal	va:0037p
+na:0147f	C	Cause	va:0037p	Agent	va:0081p|va:0103p	Patient	va:0002p	Goal	va:0037p	Instrument	va:0037p
+na:0148f	C	Agent	va:0081p|va:0103p	Patient	va:0084p|va:0083p	Result	va:0084p|va:0083p	Instrument	va:0037p	Source	va:0037p	Extent	va:0037p
+na:0148f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Result	va:0002p	Instrument	va:0037p	Source	va:0037p	Extent	va:0037p
+na:0149f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Co-Agent	va:0081p|va:0103p	Co-Theme	va:0084p
+na:0149f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Co-Agent	va:0081p|va:0103p	Co-Theme	va:0002p
+na:0150f	C	Experiencer	va:0081p|va:0007p|va:0103p	Stimulus	va:0037p	Instrument	va:0037p
+na:0152f	C	Agent	va:0081p	Theme	va:0062p	Source	va:0028p	Destination	va:0028p|va:0110p
+na:0153f	C	Agent	va:0081p|va:0007p|va:0103p	Theme	va:0084p	Source	va:0037p	Destination	va:0037p	Extent	va:0037p	Attribute	va:0037p	Instrument	va:0037p	Goal	va:0037p
+na:0154f	C	Agent	va:0081p	Theme	va:0081p|va:0084p	Co-Theme	va:0081p|va:0084p	Co-Agent	va:0037p	Beneficiary	va:0037p	Source	va:0037p
+na:0155f	C	Agent	va:0081p|va:0007p	Patient	va:0084p|va:0016p|va:0018p	Instrument	va:0084p	Theme	va:0037p	Result	va:0037p
+na:0156f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p	Theme	va:0037p	Goal	va:0037p
+na:0157f	C	Agent	va:0081p|va:0103p	Patient	va:0009p|va:0051p|va:0103p	Instrument	va:0037p	Result	va:0037p	Material	va:0037p	Attribute	va:0037p	Extent	va:0037p
+na:0157f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Instrument	va:0037p	Result	va:0037p	Material	va:0037p	Attribute	va:0037p	Extent	va:0037p
+na:0159f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Attribute	va:0037p
+na:0159f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p
+na:0160f	C	Cause	va:0037p	Source	va:0081p|va:0007p	Theme	va:0039p	Destination	va:0037p
+na:0162f	C	Agent	va:0084p|va:0083p	Theme	va:0084p|va:0083p	Recipient	va:0081p|va:0103p	Attribute	va:0037p	Location	va:0037p	Source	va:0037p
+na:0162f	A	Agent	va:0084p|va:0083p	Theme	va:0002p	Recipient	va:0081p|va:0103p	Attribute	va:0037p	Location	va:0037p	Source	va:0037p
+na:0165f	C	Experiencer	va:0084p|va:0083p|va:0103p	Stimulus	va:0002p
+na:0165f	A	Experiencer	va:0002p	Stimulus	va:0002p
+na:0166f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Source	va:0084p|va:0083p	Instrument	va:0009p	Location	va:0037p
+na:0167f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Destination	va:0037p	Extent	va:0037p	Source	va:0037p	Instrument	va:0037p
+na:0167f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Destination	va:0037p	Extent	va:0037p	Source	va:0037p	Instrument	va:0037p
+na:0170f	C	Agent	va:0081p|va:0103p	Value	va:0084p	Location	va:0084p
+na:0173f	C	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0081p|va:0103p|va:0007p	Location	va:0037p
+na:0174f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Destination	va:0114p
+na:0174f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Destination	va:0114p
+na:0175f	C	Theme	va:0083p	Location	va:0083p	Cause	va:0037p	Destination	va:0037p
+na:0176f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Attribute	va:0037p	Beneficiary	va:0037p	Goal	va:0037p
+na:0176f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p	Beneficiary	va:0037p	Goal	va:0037p
+na:0177f	C	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Topic	va:0037p	Instrument	va:0037p
+na:0181f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Beneficiary	va:0037p	Instrument	va:0037p	Attribute	va:0037p
+na:0181f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Beneficiary	va:0037p	Instrument	va:0037p	Attribute	va:0037p
+na:0182f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Source	va:0037p	Beneficiary	va:0037p
+na:0182f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Source	va:0037p	Beneficiary	va:0037p
+na:0183f	C	Agent	va:0081p|va:0103p	Patient	va:0009p	Instrument	va:0084p	Attribute	va:0037p	Location	va:0037p	Goal	va:0037p	Co-Agent	va:0037p
+na:0185f	C	Agent	va:0081p	Theme	va:0084p	Asset	va:0037p	Source	va:0037p	Beneficiary	va:0037p
+na:0186f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Source	va:0037p	Value	va:0037p	Attribute	va:0037p
+na:0186f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Source	va:0037p	Value	va:0037p	Attribute	va:0037p
+na:0188f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Co-Theme	va:0037p	Result	va:0037p	Material	va:0037p	Beneficiary	va:0037p	Attribute	va:0037p
+na:0189f	C	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Theme	va:0084p	Goal	va:0037p	Attribute	va:0037p	Source	va:0037p	Co-Theme	va:0037p
+na:0189f	A	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Theme	va:0002p	Goal	va:0037p	Attribute	va:0037p	Source	va:0037p	Co-Theme	va:0037p
+na:0196f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Co-Theme	va:0084p|va:0083p
+na:0196f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Co-Theme	va:0002p
+na:0197f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Location	va:0037p	Goal	va:0037p
+na:0197f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Location	va:0037p	Goal	va:0037p
+na:0198f	C	Agent	va:0081p|va:0103p|va:0069p	Beneficiary	va:0081p|va:0103p|va:0007p|va:0087p|va:0080p|va:0035p|va:0018p	Theme	va:0037p	Instrument	va:0037p	Result	va:0037p
+na:0200f	C	Agent	va:0081p|va:0103p|va:0007p	Co-Agent	va:0081p|va:0103p|va:0007p	Cause	va:0037p	Theme	va:0037p
+na:0201f	C	Stimulus	va:0084p|va:0083p	Experiencer	va:0084p|va:0083p	Instrument	va:0037p	Theme	va:0037p	Agent	va:0037p
+na:0201f	A	Stimulus	va:0002p	Experiencer	va:0084p|va:0083p	Instrument	va:0037p	Theme	va:0037p	Agent	va:0037p
+na:0202f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Destination	va:0037p
+na:0204f	C	Agent	va:0081p|va:0103p|va:0007p	Patient	va:0084p	Instrument	va:0084p	Attribute	va:0037p	Topic	va:0037p
+na:0205f	C	Agent	va:0081p|va:0103p	Co-Agent	va:0081p|va:0103p
+na:0206f	C	Agent	va:0081p	Patient	va:0084p	Co-Patient	va:0084p	Instrument	va:0009p	Attribute	va:0037p
+na:0207f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Instrument	va:0084p	Location	va:0037p
+na:0212f	C	Agent	va:0081p|va:0103p|va:0007p|va:0009p	Patient	va:0084p	Goal	va:0037p	Source	va:0037p	Instrument	va:0037p
+na:0213f	C	Theme	va:0083p|va:0084p	Co-Theme	va:0002p
+na:0213f	A	Theme	va:0002p	Co-Theme	va:0002p
+na:0216f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Attribute	va:0037p	Destination	va:0084p	Instrument	va:0037p
+na:0216f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p	Destination	va:0084p	Instrument	va:0037p
+na:0217f	C	Cause	va:0081p|va:0103p	Agent	va:0081p|va:0103p	Co-Agent	va:0081p|va:0103p	Instrument	va:0037p	Result	va:0037p	Theme	va:0037p
+na:0219f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p	Location	va:0037p
+na:0222f	C	Agent	va:0081p|va:0103p	Patient	va:0084p|va:0083p	Co-Patient	va:0084p|va:0083p	Extent	va:0037p
+na:0222f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Co-Patient	va:0002p	Extent	va:0037p
+na:0225f	C	Agent	va:0081p|va:0103p	Topic	va:0002p	Cause	va:0037p
+na:0227f	C	Agent	va:0081p|va:0103p	Topic	va:0084p|va:0083p	Recipient	va:0081p|va:0103p	Goal	va:0037p	Attribute	va:0037p
+na:0228f	C	Agent	va:0084p	Experiencer	va:0084p	Instrument	va:0084p	Attribute	va:0037p	Destination	va:0037p
+na:0229f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Recipient	va:0037p	Asset	va:0070p	Beneficiary	va:0037p	Attribute	va:0037p	Co-Agent	va:0037p
+na:0229f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Recipient	va:0037p	Asset	va:0070p	Beneficiary	va:0037p	Attribute	va:0037p	Co-Agent	va:0037p
+na:0231f	C	Agent	va:0081p|va:0103p|va:0007p	Recipient	va:0081p|va:0103p|va:0007p	Theme	va:0045p	Instrument	va:0084p	Goal	va:0037p
+na:0233f	C	Agent	va:0081p|va:0007p|va:0103p	Asset	va:0114p	Goal	va:0002p
+na:0234f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Destination	va:0081p|va:0103p|va:0084p
+na:0235f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p
+na:0236f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Attribute	va:0002p	Source	va:0037p
+na:0236f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0002p	Source	va:0037p
+na:0239f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Source	va:0037p	Extent	va:0037p	Destination	va:0037p	Attribute	va:0037p	Instrument	va:0037p	Co-Patient	va:0037p
+na:0240f	C	Agent	va:0084p|va:0083p	Theme	va:0084p	Attribute	va:0037p	Source	va:0064p|va:0002p	Patient	va:0037p	Recipient	va:0037p	Location	va:0037p
+na:0241f	C	Agent	va:0083p|va:0084p	Patient	va:0084p	Attribute	va:0037p	Extent	va:0037p	Source	va:0037p	Goal	va:0037p	Instrument	va:0037p	Location	va:0037p
+na:0242f	C	Agent	va:0081p|va:0103p	Instrument	va:0119p|va:0007p	Destination	va:0037p	Theme	va:0037p	Attribute	va:0037p
+na:0243f	C	Agent	va:0081p|va:0103p	Patient	va:0064p
+na:0244f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Instrument	va:0037p	Cause	va:0037p
+na:0244f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Instrument	va:0037p	Cause	va:0037p
+na:0245f	C	Theme	va:0081p|va:0103p|va:0007p	Location	va:0084p	Attribute	va:0083p	Agent	va:0037p
+na:0247f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Recipient	va:0037p	Attribute	va:0037p	Source	va:0037p	Instrument	va:0037p
+na:0247f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Recipient	va:0037p	Attribute	va:0037p	Source	va:0037p	Instrument	va:0037p
+na:0248f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Result	va:0084p	Source	va:0037p	Co-Agent	va:0037p	Beneficiary	va:0037p
+na:0248f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Result	va:0002p	Source	va:0037p	Co-Agent	va:0037p	Beneficiary	va:0037p
+na:0249f	C	Agent	va:0081p|va:0103p	Destination	va:0084p	Theme	va:0084p	Instrument	va:0037p
+na:0251f	C	Agent	va:0084p	Beneficiary	va:0084p	Theme	va:0037p	Instrument	va:0037p	Patient	va:0037p
+na:0251f	A	Agent	va:0084p	Beneficiary	va:0002p	Theme	va:0037p	Instrument	va:0037p	Patient	va:0037p
+na:0253f	C	Agent	va:0081p|va:0103p|va:0007p	Patient	va:0002p	Recipient	va:0037p	Co-Patient	va:0037p
+na:0253f	A	Agent	va:0081p|va:0103p|va:0007p	Patient	va:0084p	Recipient	va:0037p	Co-Patient	va:0037p
+na:0255f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Attribute	va:0037p	Source	va:0037p	Instrument	va:0037p	Beneficiary	va:0037p	Location	va:0037p
+na:0255f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p	Source	va:0037p	Instrument	va:0037p	Beneficiary	va:0037p	Location	va:0037p
+na:0259f	C	Agent	va:0084p|va:0083p	Patient	va:0084p|va:0083p	Source	va:0037p	Instrument	va:0084p	Destination	va:0037p
+na:0259f	A	Agent	va:0002p	Patient	va:0084p|va:0083p	Source	va:0037p	Instrument	va:0002p	Destination	va:0037p
+na:0260f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Source	va:0037p	Instrument	va:0037p
+na:0260f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Source	va:0037p	Instrument	va:0037p
+na:0261f	C	Agent	va:0081p|va:0103p
+na:0264f	C	Agent	va:0084p	Theme	va:0084p	Source	va:0037p	Destination	va:0037p	Attribute	va:0037p
+na:0266f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Co-Theme	va:0084p
+na:0266f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Co-Theme	va:0002p
+na:0267f	C	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Asset	va:0071p	Cause	va:0084p
+na:0267f	A	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Asset	va:0071p	Cause	va:0002p
+na:0272f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Attribute	va:0002p	Goal	va:0037p
+na:0274f	C	Agent	va:0081p|va:0103p	Patient	va:0045p	Result	va:0112p	Beneficiary	va:0037p	Material	va:0037p
+na:0276f	C	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0007p	Instrument	va:0084p
+na:0277f	C	Beneficiary	va:0081p|va:0103p	Theme	va:0084p	Purpose	va:0037p
+na:0277f	A	Beneficiary	va:0081p|va:0103p	Theme	va:0002p	Purpose	va:0037p
+na:0279f	C	Theme	va:0081p|va:0103p	Asset	va:0037p	Beneficiary	va:0037p	Source	va:0037p
+na:0281f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Instrument	va:0037p
+na:0282f	C	Theme	va:0084p	Destination	va:0037p	Agent	va:0081p|va:0103p	Source	va:0037p
+na:0285f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Instrument	va:0037p	Goal	va:0037p	Attribute	va:0037p
+na:0285f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Instrument	va:0037p	Goal	va:0037p	Attribute	va:0037p
+na:0287f	C	Theme	va:0084p|va:0083p	Co-Theme	va:0084p|va:0083p	Cause	va:0037p
+na:0287f	A	Theme	va:0002p	Co-Theme	va:0002p	Cause	va:0037p
+na:0288f	C	Agent	va:0037p	Theme	va:0084p|va:0083p	Location	va:0037p	Attribute	va:0037p
+na:0288f	A	Agent	va:0037p	Theme	va:0037p	Location	va:0037p	Attribute	va:0037p
+na:0289f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Instrument	va:0084p	Recipient	va:0037p	Attribute	va:0037p
+na:0290f	C	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0084p|va:0083p	Source	va:0084p|va:0083p	Asset	va:0037p	Destination	va:0037p	Instrument	va:0037p
+na:0290f	A	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0002p	Source	va:0002p	Asset	va:0037p	Destination	va:0037p	Instrument	va:0037p
+na:0292f	C	Theme	va:0084p|va:0083p	Goal	va:0084p|va:0083p	Location	va:0037p	Beneficiary	va:0037p	Cause	va:0037p
+na:0292f	A	Theme	va:0002p	Goal	va:0002p	Location	va:0037p	Beneficiary	va:0037p	Cause	va:0037p
+na:0294f	C	Agent	va:0081p|va:0103p	Theme	va:0002p
+na:0297f	C	Agent	va:0051p|va:0103p|va:0007p	Theme	va:0051p|va:0103p|va:0007p	Destination	va:0037p	Instrument	va:0037p
+na:0298f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Attribute	va:0002p	Source	va:0037p
+na:0299f	C	Agent	va:0081p|va:0103p	Patient	va:0119p	Source	va:0037p
+na:0301f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Source	va:0081p|va:0103p	Beneficiary	va:0037p	Value	va:0037p
+na:0301f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Source	va:0081p|va:0103p	Beneficiary	va:0037p	Value	va:0037p
+na:0304f	C	Agent	va:0081p|va:0103p	Co-Agent	va:0081p|va:0103p	Theme	va:0084p
+na:0304f	A	Agent	va:0037p	Co-Agent	va:0037p	Theme	va:0037p
+na:0306f	C	Agent	va:0081p|va:0103p	Asset	va:0070p	Recipient	va:0081p|va:0103p	Theme	va:0002p	Extent	va:0037p	Beneficiary	va:0037p	Source	va:0037p
+na:0307f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p|va:0007p	Beneficiary	va:0081p|va:0103p
+na:0310f	C	Agent	va:0081p|va:0103p	Topic	va:0002p	Beneficiary	va:0037p	Result	va:0037p
+na:0311f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p|va:0007p	Attribute	va:0037p	Instrument	va:0037p
+na:0312f	C	Agent	va:0084p|va:0083p	Theme	va:0002p	Recipient	va:0037p	Attribute	va:0037p	Instrument	va:0037p
+na:0312f	A	Agent	va:0002p	Theme	va:0002p	Recipient	va:0037p	Attribute	va:0037p	Instrument	va:0037p
+na:0313f	C	Agent	va:0081p|va:0103p	Co-Agent	va:0081p|va:0103p	Theme	va:0002p
+na:0314f	C	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Topic	va:0002p	Attribute	va:0037p	Instrument	va:0037p	Location	va:0037p
+na:0316f	C	Agent	va:0081p|va:0007p	Topic	va:0084p	Recipient	va:0037p	Attribute	va:0037p	Source	va:0037p
+na:0316f	A	Agent	va:0081p|va:0007p	Topic	va:0002p	Recipient	va:0037p	Attribute	va:0037p	Source	va:0037p
+na:0317f	C	Experiencer	va:0081p|va:0103p|va:0007p	Theme	va:0037p	Topic	va:0084p	Attribute	va:0037p	Source	va:0037p
+na:0317f	A	Experiencer	va:0081p|va:0103p|va:0007p	Theme	va:0037p	Topic	va:0002p	Attribute	va:0037p	Source	va:0037p
+na:0318f	C	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Topic	va:0002p
+na:0320f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Goal	va:0002p	Attribute	va:0037p
+na:0321f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Result	va:0103p	Instrument	va:0084p	Source	va:0037p
+na:0322f	C	Agent	va:0037p	Theme	va:0081p|va:0103p	Co-Theme	va:0081p|va:0103p	Result	va:0002p
+na:0324f	C	Agent	va:0084p	Theme	va:0002p	Topic	va:0037p
+na:0325f	C	Experiencer	va:0084p	Stimulus	va:0002p	Result	va:0037p
+na:0326f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p	Theme	va:0037p	Instrument	va:0037p
+na:0326f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Theme	va:0037p	Instrument	va:0037p
+na:0327f	C	Agent	va:0081p	Result	va:0122p	Topic	va:0002p	Instrument	va:0037p	Recipient	va:0037p	Destination	va:0037p
+na:0329f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Attribute	va:0037p	Instrument	va:0037p	Co-Agent	va:0037p
+na:0329f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p	Instrument	va:0037p	Co-Agent	va:0037p
+na:0330f	C	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Theme	va:0084p	Attribute	va:0037p	Goal	va:0037p
+na:0330f	A	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p	Goal	va:0037p
+na:0331f	C	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0084p	Co-Theme	va:0037p	Instrument	va:0037p
+na:0331f	A	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0002p	Co-Theme	va:0037p	Instrument	va:0037p
+na:0332f	C	Agent	va:0081p|va:0103p	Patient	va:0056p
+na:0333f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Goal	va:0037p	Attribute	va:0037p	Recipient	va:0037p	Cause	va:0037p
+na:0333f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Goal	va:0037p	Attribute	va:0037p	Recipient	va:0037p	Cause	va:0037p
+na:0334f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Attribute	va:0037p	Recipient	va:0037p
+na:0336f	C	Agent	va:0081p|va:0103p	Co-Agent	va:0081p|va:0103p	Topic	va:0002p	Attribute	va:0037p
+na:0337f	C	Agent	va:0081p|va:0103p	Product	va:0084p|va:0083p	Beneficiary	va:0002p	Material	va:0037p	Co-Agent	va:0037p	Purpose	va:0037p	Extent	va:0037p	Goal	va:0037p	Instrument	va:0037p
+na:0338f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Topic	va:0084p	Co-Agent	va:0037p	Beneficiary	va:0037p
+na:0338f	A	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Topic	va:0002p	Co-Agent	va:0037p	Beneficiary	va:0037p
+na:0339f	C	Agent	va:0081p|va:0103p	Topic	va:0084p|va:0083p	Recipient	va:0081p|va:0103p	Attribute	va:0037p	Result	va:0037p	Destination	va:0037p
+na:0340f	C	Theme	va:0051p|va:0103p|va:0007p	Topic	va:0037p	Recipient	va:0037p
+na:0341f	C	Agent	va:0084p	Theme	va:0002p	Co-Theme	va:0002p	Attribute	va:0037p
+na:0343f	C	Agent	va:0081p	Topic	va:0081p|va:0084p	Theme	va:0037p	Attribute	va:0037p
+na:0344f	C	Experiencer	va:0081p|va:0103p|va:0007p	Stimulus	va:0084p	Cause	va:0037p	Attribute	va:0037p	Instrument	va:0037p
+na:0344f	A	Experiencer	va:0081p|va:0103p|va:0007p	Stimulus	va:0002p	Cause	va:0037p	Attribute	va:0037p	Instrument	va:0037p
+na:0345f	C	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p|va:0007p	Topic	va:0002p	Instrument	va:0037p
+na:0346f	C	Agent	va:0081p|va:0103p|va:0007p	Recipient	va:0081p|va:0103p|va:0007p	Topic	va:0002p	Instrument	va:0084p	Location	va:0037p
+na:0347f	C	Agent	va:0081p|va:0103p	Theme	va:0012p	Beneficiary	va:0037p
+na:0348f	C	Agent	va:0081p|va:0103p	Topic	va:0002p	Recipient	va:0081p|va:0103p	Attribute	va:0037p
+na:0349f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p
+na:0354f	C	Agent	va:0081p|va:0103p	Destination	va:0084p	Result	va:0037p	Instrument	va:0084p	Beneficiary	va:0037p
+na:0355f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Beneficiary	va:0037p	Extent	va:0037p	Source	va:0037p	Location	va:0037p	Destination	va:0037p
+na:0356f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Goal	va:0037p	Instrument	va:0037p
+na:0356f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Goal	va:0037p	Instrument	va:0037p
+na:0357f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Recipient	va:0037p
+na:0357f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Recipient	va:0037p
+na:0360f	C	Agent	va:0081p|va:0103p|va:0007p	Co-Agent	va:0081p|va:0103p|va:0007p	Topic	va:0037p
+na:0361f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Location	va:0084p	Instrument	va:0009p	Attribute	va:0037p
+na:0362f	C	Agent	va:0081p|va:0103p	Co-Agent	va:0081p|va:0103p
+na:0364f	C	Agent	va:0081p|va:0103p	Value	va:0037p	Theme	va:0002p	Patient	va:0084p	Instrument	va:0084p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0366f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Co-Patient	va:0084p	Result	va:0084p	Extent	va:0037p
+na:0366f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Co-Patient	va:0002p	Result	va:0002p	Extent	va:0037p
+na:0368f	C	Cause	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Co-Theme	va:0081p|va:0103p
+na:0369f	C	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0002p	Patient	va:0018p	Recipient	va:0037p
+na:0372f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Instrument	va:0084p	Extent	va:0037p	Source	va:0037p	Goal	va:0037p
+na:0372f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Instrument	va:0002p	Extent	va:0037p	Source	va:0037p	Goal	va:0037p
+na:0373f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Goal	va:0037p	Cause	va:0037p	Instrument	va:0037p	Attribute	va:0037p
+na:0373f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Goal	va:0037p	Cause	va:0037p	Instrument	va:0037p	Attribute	va:0037p
+na:0379f	C	Agent	va:0081p|va:0103p	Theme	va:0084p
+na:0379f	A	Agent	va:0081p|va:0103p	Theme	va:0002p
+na:0380f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Goal	va:0002p	Attribute	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0380f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Goal	va:0002p	Attribute	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0382f	C	Agent	va:0081p|va:0103p	Result	va:0084p	Material	va:0084p	Beneficiary	va:0037p	Attribute	va:0037p	Co-Agent	va:0037p	Product	va:0037p
+na:0382f	A	Agent	va:0081p|va:0103p	Result	va:0002p	Material	va:0037p	Beneficiary	va:0037p	Attribute	va:0037p	Co-Agent	va:0037p	Product	va:0037p
+na:0384f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Instrument	va:0037p	Goal	va:0037p	Beneficiary	va:0037p
+na:0384f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Instrument	va:0037p	Goal	va:0037p	Beneficiary	va:0037p
+na:0385f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0385f	A	Agent	va:0002p	Theme	va:0002p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0387f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Destination	va:0037p	Source	va:0037p	Attribute	va:0037p	Extent	va:0037p	Instrument	va:0037p
+na:0387f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Destination	va:0037p	Source	va:0037p	Attribute	va:0037p	Extent	va:0037p	Instrument	va:0037p
+na:0389f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Beneficiary	va:0037p	Instrument	va:0037p	Co-Agent	va:0037p	Attribute	va:0037p
+na:0390f	C	Agent	va:0081p	Patient	va:0102p
+na:0391f	C	Agent	va:0081p|va:0119p|va:0007p	Theme	va:0084p	Source	va:0037p	Destination	va:0037p	Extent	va:0037p	Attribute	va:0037p
+na:0394f	C	Theme	va:0081p|va:0103p|va:0007p	Location	va:0084p	Source	va:0084p	Destination	va:0084p	Extent	va:0037p	Agent	va:0037p	Purpose	va:0037p	Instrument	va:0037p	Co-Theme	va:0037p
+na:0396f	C	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0084p	Result	va:0002p	Asset	va:0037p	Source	va:0037p	Beneficiary	va:0037p	Location	va:0037p	Cause	va:0037p	Instrument	va:0037p
+na:0396f	A	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0002p	Result	va:0002p	Asset	va:0037p	Source	va:0037p	Beneficiary	va:0037p	Location	va:0037p	Cause	va:0037p	Instrument	va:0037p
+na:0397f	C	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Patient	va:0037p	Cause	va:0037p
+na:0398f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p|va:0007p	Theme	va:0037p	Asset	va:0037p	Cause	va:0037p
+na:0400f	C	Agent	va:0081p|va:0103p	Destination	va:0084p	Theme	va:0084p	Result	va:0037p
+na:0401f	C	Agent	va:0081p|va:0103p	Beneficiary	va:0081p|va:0103p
+na:0402f	C	Agent	va:0084p	Theme	va:0084p	Beneficiary	va:0084p	Attribute	va:0037p	Instrument	va:0037p
+na:0402f	A	Agent	va:0084p	Theme	va:0002p	Beneficiary	va:0084p	Attribute	va:0037p	Instrument	va:0037p
+na:0406f	C	Agent	va:0081p|va:0103p	Topic	va:0037p	Source	va:0075p	Destination	va:0075p
+na:0407f	C	Agent	va:0081p|va:0103p	Asset	va:0070p	Theme	va:0084p	Recipient	va:0081p|va:0103p
+na:0407f	A	Agent	va:0081p|va:0103p	Asset	va:0070p	Theme	va:0002p	Recipient	va:0081p|va:0103p
+na:0408f	C	Agent	va:0081p|va:0103p	Theme	va:0002p
+na:0410f	C	Agent	va:0081p|va:0103p|va:0007p	Co-Agent	va:0081p|va:0103p|va:0007p	Goal	va:0002p	Cause	va:0037p
+na:0413f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p	Goal	va:0037p	Instrument	va:0037p	Source	va:0037p
+na:0414f	C	Stimulus	va:0081p|va:0103p	Experiencer	va:0081p|va:0103p	Extent	va:0037p	Instrument	va:0037p
+na:0414f	A	Stimulus	va:0081p|va:0103p	Experiencer	va:0002p	Extent	va:0037p	Instrument	va:0037p
+na:0415f	C	Agent	va:0081p|va:0103p	Theme	va:0046p	Instrument	va:0084p
+na:0417f	C	Agent	va:0081p|va:0103p|va:0007p	Theme	va:0002p	Instrument	va:0037p
+na:0418f	C	Agent	va:0037p	Theme	va:0084p|va:0083p	Co-Theme	va:0084p|va:0083p
+na:0419f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Destination	va:0084p	Instrument	va:0084p	Attribute	va:0037p
+na:0420f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Co-Theme	va:0084p
+na:0421f	C	Agent	va:0081p|va:0103p	Destination	va:0084p	Theme	va:0084p	Instrument	va:0037p
+na:0422f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Destination	va:0084p	Instrument	va:0037p
+na:0423f	C	Agent	va:0030p|va:0113p	Theme	va:0100p|va:0101p|va:0090p|va:0050p	Co-Agent	va:0037p
+na:0424f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Recipient	va:0081p|va:0103p	Attribute	va:0037p
+na:0425f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Cause	va:0002p	Destination	va:0081p|va:0103p	Instrument	va:0037p	Attribute	va:0037p
+na:0426f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Attribute	va:0002p
+na:0427f	C	Agent	va:0081p	Theme	va:0002p	Co-Agent	va:0037p	Attribute	va:0037p
+na:0429f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Instrument	va:0037p	Result	va:0037p	Attribute	va:0037p	Location	va:0037p	Extent	va:0037p	Source	va:0037p	Time	va:0037p	Beneficiary	va:0037p
+na:0429f	A	Agent	va:0002p	Theme	va:0002p	Instrument	va:0037p	Result	va:0037p	Attribute	va:0037p	Location	va:0037p	Extent	va:0037p	Source	va:0037p	Time	va:0037p	Beneficiary	va:0037p
+na:0430f	C	Agent	va:0081p|va:0103p	Attribute	va:0037p	Patient	va:0084p|va:0083p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p	Instrument	va:0037p	Location	va:0037p	Beneficiary	va:0037p
+na:0430f	A	Agent	va:0081p|va:0103p	Attribute	va:0037p	Patient	va:0002p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p	Instrument	va:0037p	Location	va:0037p	Beneficiary	va:0037p
+na:0431f	C	Agent	va:0037p	Experiencer	va:0081p|va:0103p|va:0007p|va:0087p	Instrument	va:0037p	Goal	va:0037p
+na:0432f	C	Agent	va:0002p	Patient	va:0084p|va:0083p	Instrument	va:0037p	Goal	va:0037p	Extent	va:0037p	Source	va:0037p
+na:0432f	A	Agent	va:0002p	Patient	va:0002p	Instrument	va:0037p	Goal	va:0037p	Extent	va:0037p	Source	va:0037p
+na:0433f	C	Agent	va:0084p|va:0083p	Patient	va:0084p
+na:0434f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Co-Patient	va:0084p	Location	va:0037p	Result	va:0037p	Instrument	va:0037p
+na:0435f	C	Agent	va:0037p	Stimulus	va:0084p|va:0083p|va:0103p	Experiencer	va:0081p|va:0103p	Instrument	va:0084p	Result	va:0037p	Attribute	va:0037p	Source	va:0037p	Goal	va:0037p
+na:0435f	A	Agent	va:0037p	Stimulus	va:0002p	Experiencer	va:0002p	Instrument	va:0002p	Result	va:0037p	Attribute	va:0037p	Source	va:0037p	Goal	va:0037p
+na:0436f	C	Agent	va:0084p|va:0083p	Patient	va:0084p|va:0083p	Instrument	va:0084p|va:0083p
+na:0437f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Destination	va:0084p	Instrument	va:0037p
+na:0438f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p	Stimulus	va:0002p	Attribute	va:0037p
+na:0438f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Stimulus	va:0002p	Attribute	va:0037p
+na:0441f	C	Agent	va:0084p|va:0083p	Patient	va:0084p	Instrument	va:0037p
+na:0442f	C	Agent	va:0081p	Patient	va:0084p	Result	va:0025p	Co-Patient	va:0037p
+na:0443f	C	Agent	va:0081p|va:0103p|va:0084p	Patient	va:0084p	Result	va:0037p
+na:0444f	C	Agent	va:0084p	Patient	va:0084p
+na:0445f	C	Agent	va:0002p	Patient	va:0084p	Location	va:0037p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p	Instrument	va:0037p	Stimulus	va:0037p
+na:0445f	A	Agent	va:0002p	Patient	va:0002p	Location	va:0037p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p	Instrument	va:0037p	Stimulus	va:0037p
+na:0446f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Instrument	va:0084p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0446f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Instrument	va:0037p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0448f	C	Agent	va:0081p|va:0103p|va:0007p	Patient	va:0081p|va:0103p|va:0007p|va:0018p
+na:0449f	C	Agent	va:0084p|va:0083p	Patient	va:0084p	Extent	va:0037p
+na:0450f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Recipient	va:0084p
+na:0450f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Recipient	va:0084p
+na:0451f	C	Agent	va:0081p	Patient	va:0009p	Beneficiary	va:0037p
+na:0452f	C	Agent	va:0081p|va:0007p	Theme	va:0037p	Time	va:0037p
+na:0453f	C	Agent	va:0084p	Patient	va:0084p	Material	va:0037p	Beneficiary	va:0037p	Result	va:0037p
+na:0454f	C	Agent	va:0084p|va:0083p	Patient	va:0084p|va:0083p	Source	va:0037p	Attribute	va:0037p	Instrument	va:0037p
+na:0457f	C	Agent	va:0081p|va:0103p	Source	va:0084p	Theme	va:0084p	Destination	va:0037p	Instrument	va:0084p	Extent	va:0037p
+na:0458f	C	Agent	va:0081p|va:0103p|va:0009p	Patient	va:0084p	Source	va:0037p	Instrument	va:0037p	Beneficiary	va:0037p	Result	va:0037p	Product	va:0037p
+na:0459f	C	Agent	va:0081p|va:0103p	Patient	va:0084p|va:0083p	Instrument	va:0037p
+na:0460f	C	Agent	va:0081p|va:0103p	Patient	va:0064p|va:0103p
+na:0461f	C	Agent	va:0081p|va:0103p	Patient	va:0002p	Instrument	va:0037p
+na:0461f	A	Agent	va:0002p	Patient	va:0084p	Instrument	va:0037p
+na:0462f	C	Agent	va:0081p|va:0103p	Patient	va:0045p	Instrument	va:0084p	Source	va:0037p	Beneficiary	va:0037p
+na:0463f	C	Agent	va:0081p|va:0103p	Patient	va:0084p|va:0083p	Instrument	va:0037p
+na:0469f	C	Agent	va:0084p	Patient	va:0084p	Instrument	va:0084p	Product	va:0037p	Extent	va:0037p	Source	va:0037p	Goal	va:0037p
+na:0470f	C	Agent	va:0081p|va:0103p	Patient	va:0084p|va:0083p	Source	va:0037p	Destination	va:0037p
+na:0470f	A	Agent	va:0002p	Patient	va:0002p	Source	va:0037p	Destination	va:0037p
+na:0472f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Location	va:0084p
+na:0473f	C	Agent	va:0081p|va:0103p|va:0007p	Patient	va:0084p|va:0083p	Location	va:0084p	Attribute	va:0037p	Instrument	va:0037p	Beneficiary	va:0037p
+na:0474f	C	Agent	va:0081p|va:0103p|va:0007p	Patient	va:0084p|va:0083p	Instrument	va:0037p
+na:0475f	C	Agent	va:0081p|va:0007p|va:0103p	Patient	va:0084p|va:0083p	Destination	va:0037p
+na:0475f	A	Agent	va:0081p|va:0007p|va:0103p	Patient	va:0002p	Destination	va:0037p
+na:0477f	C	Agent	va:0081p|va:0103p	Patient	va:0084p
+na:0477f	A	Agent	va:0081p|va:0103p	Patient	va:0002p
+na:0478f	C	Agent	va:0081p|va:0103p|va:0009p	Theme	va:0084p	Beneficiary	va:0037p	Destination	va:0037p
+na:0478f	A	Agent	va:0081p|va:0103p|va:0009p	Theme	va:0002p	Beneficiary	va:0037p	Destination	va:0037p
+na:0479f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Instrument	va:0037p	Goal	va:0037p
+na:0479f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Instrument	va:0037p	Goal	va:0037p
+na:0480f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Destination	va:0062p	Instrument	va:0037p	Extent	va:0037p	Source	va:0037p	Goal	va:0037p	Location	va:0037p	Co-Patient	va:0037p
+na:0481f	C	Agent	va:0081p|va:0103p	Patient	va:0002p
+na:0482f	C	Agent	va:0081p|va:0103p	Patient	va:0084p|va:0083p	Location	va:0037p	Instrument	va:0037p
+na:0482f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Location	va:0037p	Instrument	va:0037p
+na:0483f	C	Agent	va:0081p|va:0007p|va:0103p	Product	va:0009p	Material	va:0084p	Result	va:0037p	Beneficiary	va:0084p	Attribute	va:0037p
+na:0486f	C	Theme	va:0081p|va:0103p	Co-Theme	va:0084p	Attribute	va:0002p	Extent	va:0037p
+na:0486f	A	Theme	va:0081p|va:0103p	Co-Theme	va:0002p	Attribute	va:0002p	Extent	va:0037p
+na:0487f	C	Agent	va:0081p|va:0103p	Patient	va:0002p
+na:0490f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Instrument	va:0084p
+na:0491f	C	Agent	va:0081p|va:0103p	Patient	va:0002p	Source	va:0084p	Instrument	va:0084p	Goal	va:0037p
+na:0491f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Source	va:0002p	Instrument	va:0084p	Goal	va:0037p
+na:0492f	C	Agent	va:0083p|va:0084p	Patient	va:0084p
+na:0494f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Instrument	va:0084p	Goal	va:0037p	Result	va:0037p
+na:0496f	C	Agent	va:0081p|va:0103p	Recipient	va:0084p	Theme	va:0084p	Instrument	va:0037p	Attribute	va:0037p
+na:0497f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Attribute	va:0002p	Source	va:0037p	Destination	va:0037p
+na:0500f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0500f	A	Agent	va:0002p	Theme	va:0002p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0501f	C	Agent	va:0037p	Theme	va:0084p|va:0083p	Attribute	va:0002p	Location	va:0037p
+na:0502f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Result	va:0060p|va:0095p|va:0077p|va:0111p	Source	va:0037p
+na:0503f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Result	va:0002p	Source	va:0037p
+na:0504f	C	Agent	va:0084p	Extent	va:0037p	Source	va:0037p	Destination	va:0084p	Instrument	va:0119p	Location	va:0037p	Goal	va:0037p
+na:0505f	C	Agent	va:0081p	Patient	va:0009p	Location	va:0084p
+na:0506f	C	Agent	va:0084p	Destination	va:0084p
+na:0507f	C	Agent	va:0081p|va:0103p	Theme	va:0058p|va:0075p	Result	va:0002p
+na:0508f	C	Agent	va:0081p|va:0103p	Experiencer	va:0081p|va:0103p	Stimulus	va:0002p	Cause	va:0037p
+na:0509f	C	Agent	va:0037p	Theme	va:0081p|va:0103p	Location	va:0064p	Co-Theme	va:0037p
+na:0511f	C	Theme	va:0081p|va:0103p	Attribute	va:0002p	Experiencer	va:0037p
+na:0511f	A	Theme	va:0002p	Attribute	va:0002p	Experiencer	va:0037p
+na:0512f	C	Theme	va:0084p	Value	va:0071p	Beneficiary	va:0037p
+na:0512f	A	Theme	va:0002p	Value	va:0071p	Beneficiary	va:0037p
+na:0514f	C	Agent	va:0081p|va:0103p	Patient	va:0009p	Instrument	va:0037p	Time	va:0037p
+na:0520f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Co-Theme	va:0002p
+na:0521f	C	Experiencer	va:0081p|va:0103p|va:0007p	Stimulus	va:0084p	Attribute	va:0037p	Beneficiary	va:0037p
+na:0522f	C	Agent	va:0081p|va:0103p|va:0007p	Patient	va:0084p|va:0083p	Goal	va:0002p
+na:0523f	C	Theme	va:0084p	Location	va:0084p	Agent	va:0037p	Destination	va:0037p	Co-Theme	va:0037p
+na:0524f	C	Agent	va:0081p|va:0103p	Location	va:0037p	Theme	va:0081p|va:0103p|va:0007p
+na:0525f	C	Experiencer	va:0081p|va:0103p	Stimulus	va:0036p
+na:0526f	C	Theme	va:0084p	Attribute	va:0037p	Co-Theme	va:0037p
+na:0526f	A	Theme	va:0002p	Attribute	va:0037p	Co-Theme	va:0037p
+na:0527f	C	Agent	va:0037p	Theme	va:0084p	Co-Theme	va:0084p	Attribute	va:0037p
+na:0527f	A	Agent	va:0037p	Theme	va:0002p	Co-Theme	va:0002p	Attribute	va:0037p
+na:0532f	C	Agent	va:0084p|va:0083p	Patient	va:0081p|va:0103p	Theme	va:0037p
+na:0532f	A	Agent	va:0002p	Patient	va:0081p|va:0103p	Theme	va:0037p
+na:0533f	C	Cause	va:0037p	Agent	va:0081p|va:0103p	Theme	va:0002p	Source	va:0037p	Destination	va:0037p	Extent	va:0037p	Location	va:0037p	Co-Agent	va:0037p
+na:0534f	C	Agent	va:0084p|va:0083p	Patient	va:0084p|va:0083p	Co-Patient	va:0084p|va:0083p	Result	va:0037p	Instrument	va:0037p	Beneficiary	va:0037p	Attribute	va:0037p
+na:0535f	C	Agent	va:0081p|va:0007p	Theme	va:0047p	Destination	va:0037p
+na:0537f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Instrument	va:0037p	Result	va:0037p
+na:0538f	C	Experiencer	va:0081p|va:0103p	Stimulus	va:0045p|va:0087p
+na:0539f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p|va:0007p
+na:0541f	C	Agent	va:0081p|va:0103p	Destination	va:0083p|va:0084p	Theme	va:0037p
+na:0545f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Beneficiary	va:0081p|va:0103p	Time	va:0037p	Goal	va:0002p	Attribute	va:0037p
+na:0545f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Beneficiary	va:0081p|va:0103p	Time	va:0037p	Goal	va:0002p	Attribute	va:0037p
+na:0546f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p	Topic	va:0037p
+na:0547f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0037p	Source	va:0037p
+na:0548f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Source	va:0002p	Co-Agent	va:0037p
+na:0550f	C	Experiencer	va:0081p|va:0103p	Stimulus	va:0002p	Destination	va:0081p|va:0103p
+na:0552f	C	Theme	va:0084p	Cause	va:0002p	Attribute	va:0037p	Instrument	va:0037p	Material	va:0037p	Product	va:0037p
+na:0553f	C	Agent	va:0081p	Patient	va:0081p	Theme	va:0023p
+na:0554f	C	Agent	va:0084p|va:0083p	Patient	va:0084p|va:0083p
+na:0556f	C	Agent	va:0084p|va:0083p	Theme	va:0084p|va:0083p	Recipient	va:0037p
+na:0558f	C	Agent	va:0081p|va:0103p	Theme	va:0002p
+na:0559f	C	Theme	va:0084p	Source	va:0084p	Destination	va:0084p	Agent	va:0037p	Extent	va:0037p	Location	va:0037p	Co-Theme	va:0037p
+na:0560f	C	Agent	va:0081p	Source	va:0091p|va:0120p
+na:0561f	C	Patient	va:0084p	Cause	va:0037p	Result	va:0037p
+na:0562f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Destination	va:0037p
+na:0563f	C	Agent	va:0081p|va:0103p	Patient	va:0084p|va:0083p	Co-Patient	va:0084p|va:0083p	Material	va:0037p	Product	va:0037p
+na:0564f	C	Agent	va:0081p|va:0103p	Patient	va:0084p|va:0083p	Result	va:0084p|va:0083p	Extent	va:0037p	Material	va:0037p	Goal	va:0037p	Instrument	va:0037p
+na:0566f	C	Agent	va:0081p|va:0103p	Co-Agent	va:0081p|va:0103p	Theme	va:0031p|va:0073p	Location	va:0037p
+na:0567f	C	Agent	va:0081p	Patient	va:0084p	Instrument	va:0084p	Extent	va:0037p	Destination	va:0037p
+na:0568f	C	Experiencer	va:0081p|va:0103p	Stimulus	va:0002p	Destination	va:0037p
+na:0570f	C	Agent	va:0037p	Theme	va:0011p	Goal	va:0037p
+na:0571f	C	Agent	va:0081p|va:0103p	Theme	va:0119p|va:0007p
+na:0572f	C	Theme	va:0081p|va:0103p	Agent	va:0062p	Destination	va:0084p|va:0083p
+na:0573f	C	Stimulus	va:0084p|va:0083p	Experiencer	va:0081p|va:0103p	Instrument	va:0037p	Result	va:0037p
+na:0573f	A	Stimulus	va:0002p	Experiencer	va:0081p|va:0103p	Instrument	va:0037p	Result	va:0037p
+na:0574f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p	Cause	va:0037p	Instrument	va:0037p
+na:0574f	A	Agent	va:0081p|va:0103p	Patient	va:0002p	Cause	va:0037p	Instrument	va:0037p
+na:0575f	C	Agent	va:0081p|va:0103p	Experiencer	va:0084p|va:0083p	Attribute	va:0037p
+na:0576f	C	Experiencer	va:0084p|va:0083p	Stimulus	va:0084p|va:0083p	Attribute	va:0037p
+na:0576f	A	Experiencer	va:0084p|va:0083p	Stimulus	va:0002p	Attribute	va:0037p
+na:0577f	C	Experiencer	va:0081p|va:0103p|va:0007p	Stimulus	va:0002p
+na:0578f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p|va:0007p	Destination	va:0037p	Cause	va:0037p	Extent	va:0037p
+na:0579f	C	Agent	va:0081p|va:0103p	Patient	va:0022p	Instrument	va:0076p	Material	va:0037p	Product	va:0037p
+na:0580f	C	Agent	va:0081p|va:0103p	Patient	va:0084p	Co-Patient	va:0084p	Instrument	va:0084p	Result	va:0037p
+na:0581f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Source	va:0037p	Destination	va:0037p	Instrument	va:0037p	Attribute	va:0037p
+na:0581f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Source	va:0037p	Destination	va:0037p	Instrument	va:0037p	Attribute	va:0037p
+na:0582f	C	Agent	va:0037p	Stimulus	va:0037p	Experiencer	va:0081p|va:0103p	Instrument	va:0037p	Extent	va:0037p	Theme	va:0037p	Attribute	va:0037p	Result	va:0037p
+na:0583f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Beneficiary	va:0037p	Co-Agent	va:0037p
+na:0584f	C	Agent	va:0081p	Patient	va:0009p	Material	va:0037p	Beneficiary	va:0037p
+na:0584f	A	Agent	va:0081p	Patient	va:0002p	Material	va:0037p	Beneficiary	va:0037p
+na:0586f	C	Agent	va:0084p|va:0083p	Product	va:0084p|va:0083p	Patient	va:0037p	Beneficiary	va:0037p	Attribute	va:0037p
+na:0586f	A	Agent	va:0084p|va:0083p	Product	va:0002p	Patient	va:0037p	Beneficiary	va:0037p	Attribute	va:0037p
+na:0587f	C	Agent	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Destination	va:0037p
+na:0592f	C	Experiencer	va:0081p|va:0103p|va:0007p	Stimulus	va:0084p|va:0083p	Attribute	va:0037p
+na:0592f	A	Experiencer	va:0081p|va:0103p|va:0007p	Stimulus	va:0002p	Attribute	va:0037p
+na:0593f	C	Agent	va:0084p|va:0083p	Patient	va:0084p|va:0083p	Destination	va:0084p|va:0083p	Extent	va:0037p	Source	va:0037p	Attribute	va:0037p
+na:0594f	C	Theme	va:0009p|va:0051p|va:0103p|va:0015p	Destination	va:0037p	Agent	va:0037p
+na:0596f	C	Agent	va:0081p|va:0103p|va:0007p	Patient	va:0084p	Destination	va:0037p
+na:0597f	C	Agent	va:0081p|va:0103p	Attribute	va:0002p	Theme	va:0037p	Goal	va:0037p	Co-Agent	va:0037p	Instrument	va:0037p
+na:0598f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Source	va:0037p	Instrument	va:0037p
+na:0598f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Source	va:0037p	Instrument	va:0037p
+na:0600f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Source	va:0002p
+na:0602f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Attribute	va:0002p	Cause	va:0037p
+na:0602f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Attribute	va:0002p	Cause	va:0037p
+na:0604f	C	Agent	va:0037p	Stimulus	va:0084p|va:0083p	Experiencer	va:0081p|va:0103p	Instrument	va:0037p
+na:0604f	A	Agent	va:0037p	Stimulus	va:0002p	Experiencer	va:0081p|va:0103p	Instrument	va:0037p
+na:0605f	C	Agent	va:0081p|va:0103p	Theme	va:0084p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p	Location	va:0037p
+na:0607f	C	Theme	va:0081p|va:0103p	Source	va:0084p	Goal	va:0037p
+na:0607f	A	Theme	va:0081p|va:0103p	Source	va:0002p	Goal	va:0037p
+na:0608f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Co-Theme	va:0081p|va:0103p	Attribute	va:0037p
+na:0609f	C	Agent	va:0084p|va:0083p	Co-Agent	va:0084p|va:0083p
+na:0611f	C	Agent	va:0084p|va:0083p	Theme	va:0002p	Attribute	va:0037p
+na:0612f	C	Agent	va:0081p|va:0103p	Recipient	va:0081p|va:0103p	Theme	va:0084p|va:0083p	Asset	va:0037p	Extent	va:0037p
+na:0616f	C	Agent	va:0084p	Patient	va:0084p	Co-Patient	va:0002p	Result	va:0037p
+na:0617f	C	Agent	va:0081p|va:0103p	Asset	va:0070p	Theme	va:0084p	Co-Agent	va:0037p
+na:0618f	C	Agent	va:0081p|va:0103p	Patient	va:0009p	Extent	va:0037p	Source	va:0037p	Destination	va:0037p
+na:0619f	C	Agent	va:0037p	Patient	va:0037p	Result	va:0037p	Instrument	va:0037p
+na:0620f	C	Agent	va:0081p|va:0103p	Attribute	va:0002p	Theme	va:0037p
+na:0621f	C	Agent	va:0081p|va:0007p|va:0103p	Theme	va:0081p|va:0007p|va:0103p	Extent	va:0037p	Location	va:0037p	Goal	va:0037p
+na:0621f	A	Agent	va:0081p|va:0007p|va:0103p	Theme	va:0002p	Extent	va:0037p	Location	va:0037p	Goal	va:0037p
+na:0622f	C	Agent	va:0081p|va:0103p	Patient	va:0037p	Instrument	va:0037p	Goal	va:0037p	Attribute	va:0037p
+na:0623f	C	Agent	va:0081p|va:0103p	Theme	va:0002p	Location	va:0037p
+na:0624f	C	Agent	va:0002p	Theme	va:0002p	Source	va:0037p
+na:0625f	C	Agent	va:0081p|va:0103p	Patient	va:0037p	Attribute	va:0037p
+na:0626f	C	Agent	va:0081p|va:0103p	Patient	va:0081p|va:0103p	Result	va:0037p	Value	va:0037p
+na:0627f	C	Agent	va:0081p|va:0103p	Theme	va:0081p|va:0103p	Co-Theme	va:0081p|va:0103p	Attribute	va:0037p
+na:0627f	A	Agent	va:0081p|va:0103p	Theme	va:0002p	Co-Theme	va:0002p	Attribute	va:0037p
+na:0628f	C	Theme	va:0002p	Co-Theme	va:0002p	Recipient	va:0037p
+na:0629f	C	Theme	va:0081p|va:0103p	Value	va:0084p	Goal	va:0084p
+na:0630f	C	Agent	va:0037p	Theme	va:0083p	Attribute	va:0064p	Goal	va:0037p
+na:0630f	A	Agent	va:0037p	Theme	va:0037p	Attribute	va:0037p	Goal	va:0037p
+na:0631f	C	Agent	va:0037p	Theme	va:0037p	Attribute	va:0037p	Instrument	va:0037p
+na:0632f	C	Topic	va:0037p
+na:0633f	C	Theme	va:0037p	Source	va:0037p
+na:0634f	C	Agent	va:0037p	Theme	va:0037p	Patient	va:0037p
+na:0635f	C	Agent	va:0037p	Theme	va:0037p
