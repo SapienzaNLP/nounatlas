@@ -6,6 +6,10 @@ This repository contains the code for the paper **[NounAtlas: Filling the Gap in
 
 The final model will be usable for nominal SRL through [InVeRo by Sapienza NLP](https://nlp.uniroma1.it/invero/).
 
+## Dataset for Nominal SRL
+Our dataset for nominal SRL is available on Hugging Face 🤗
+[https://huggingface.co/datasets/sapienzanlp/nounatlas_srl_corpus](https://huggingface.co/datasets/sapienzanlp/nounatlas_srl_corpus)
+
 ## Reproducing the paper results
 
 This section provides instructions to reproduce the experiments and results described in the paper. Each section corresponds to a specific paragraph in the paper, refer to it for further details.
