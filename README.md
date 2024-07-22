@@ -4,7 +4,7 @@ This repository contains the code for the paper **[NounAtlas: Filling the Gap in
 
 ## Using the NounAtlas Model
 
-The final model will be usable for nominal SRL through [InVeRo by Sapienza NLP](https://nlp.uniroma1.it/invero/).
+Our model for joint nominal and verbal SRL will be usable soon through the [InVeRo API](https://nlp.uniroma1.it/invero/).
 
 ## Dataset for Nominal SRL
 Our dataset for nominal SRL is available on Hugging Face 🤗
