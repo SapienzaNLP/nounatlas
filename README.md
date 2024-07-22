@@ -8,6 +8,7 @@ The final model will be usable for nominal SRL through [InVeRo by Sapienza NLP](
 
 ## Dataset for Nominal SRL
 Our dataset for nominal SRL is available on Hugging Face 🤗
+
 [https://huggingface.co/datasets/sapienzanlp/nounatlas_srl_corpus](https://huggingface.co/datasets/sapienzanlp/nounatlas_srl_corpus)
 
 ## Reproducing the paper results
