@@ -1,6 +1,11 @@
-# NounAtlas: Filling the Gap in Nominal Semantic Role Labeling
+<img width="636" alt="image" src="https://github.com/user-attachments/assets/7c4b3cf5-cb68-4c14-a709-5ca90ca9a78e"># NounAtlas: Filling the Gap in Nominal Semantic Role Labeling
 
 This repository contains the code for the paper **[NounAtlas: Filling the Gap in Nominal Semantic Role Labeling](TODO)**. 
+Check out our website!
+
+[https://frameatlas.org](https://frameatlas.org)
+
+Download the latest version of our resource in the [Download](https://frameatlas.org/download) section.
 
 ## Using the NounAtlas Model
 
