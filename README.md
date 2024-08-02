@@ -7,7 +7,7 @@ Check out our website!
 
 [https://frameatlas.org](https://frameatlas.org)
 
-Download the latest version of our resource in the [Download](https://frameatlas.org/download) section.
+Check out the latest version of our resource in the [Download](https://frameatlas.org/download) section.
 
 ## Using the NounAtlas Model
 
