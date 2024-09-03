@@ -14,7 +14,7 @@
 </div>
 
 
-This repository contains the code for the paper **[NounAtlas: Filling the Gap in Nominal Semantic Role Labeling](TODO)**. 
+This repository contains the code for the paper **[NounAtlas: Filling the Gap in Nominal Semantic Role Labeling](https://github.com/SapienzaNLP/nounatlas/blob/main/paper.pdf)**. 
 
 ## Website
 NounAtlas [website](https://frameatlas.org) is out!
