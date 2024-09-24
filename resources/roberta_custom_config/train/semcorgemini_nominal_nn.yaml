@@ -18,16 +18,16 @@ model:
 data:
 
   #   (type: str)
-  vocabulary_path: data/preprocessed/ontonotes_original/vocabulary.va.extended.json
+  vocabulary_path: data/preprocessed/semcor_gemini_2_nn/vocabulary.na.json
 
   #   (type: Union[str, null], default: null)
-  train_path: data/preprocessed/ontonotes_semcor_gemini_2_nn/train.json
+  train_path: data/preprocessed/semcor_gemini_2_nn/train.json
 
   #   (type: Union[str, null], default: null)
-  dev_path: data/preprocessed/ontonotes_semcor_gemini_2_nn/dev.json
+  dev_path: data/preprocessed/semcor_gemini_2_nn/dev.json
 
   #   (type: Union[str, null], default: null)
-  test_path: data/preprocessed/ontonotes_semcor_gemini_2_nn/test.json
+  test_path: data/preprocessed/semcor_gemini_2_nn/test.json
 
   #   (type: str, default: bert-base-cased)
   language_model_name: roberta-base
